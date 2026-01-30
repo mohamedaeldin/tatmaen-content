@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "contentVersion": "1.0.0",
+  "lastUpdated": "2026-01-30T00:00:00Z",
+  "items": [
+    {
+      "id": "amr_khaled",
+      "nameAr": "عمرو خالد",
+      "nameEn": "Amr Khaled",
+      "imageAsset": "owner_amr_khaled",
+      "imageURL": null,
+      "playlists": [
+        { "playlistId": "PLhbs8A5De9zRZ8kBbUKB372e0m7jJ0A76", "firstVideoId": "HIvCnWbpZ7s" },
+        { "playlistId": "PLhbs8A5De9zQqWnb0QhgyApV0yCzpTbJa", "firstVideoId": "2t12P31OqT4" },
+        { "playlistId": "PLhbs8A5De9zSv0thJlmTqPwvgooaKMw4S", "firstVideoId": "zQLwz2XPI1E" },
+        { "playlistId": "PLhbs8A5De9zSJFsHcMdpzO98BLmhOfVyd", "firstVideoId": "g0PWpr7Q5b0" }
+      ],
+      "enabled": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "fahem",
+      "nameAr": "فاهم",
+      "nameEn": "Fahem",
+      "imageAsset": "owner_fahem",
+      "imageURL": null,
+      "playlists": [
+        { "playlistId": "PLSFJcWy6euuCVCCDoku7xlV3BbzujmZQx", "firstVideoId": "qoiMDzxlImE" }
+      ],
+      "enabled": true,
+      "sortOrder": 2
+    }
+  ]
+}

@@ -101,6 +101,30 @@
       "sortOrder": 8,
       "dependencies": [],
       "checksum": ""
+    },
+    {
+      "id": "youtube_playlists",
+      "file": "content/youtube_playlists.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "YouTube playlist video content owners and their playlists",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 9,
+      "dependencies": [],
+      "checksum": ""
+    },
+    {
+      "id": "youtube_podcasts",
+      "file": "content/youtube_podcasts.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "YouTube podcast content owners and their playlists",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 10,
+      "dependencies": [],
+      "checksum": ""
     }
   ],
 
@@ -110,7 +134,9 @@
     "after_adhan_videos_enabled": true,
     "itinerary_enabled": true,
     "quran_audio_enabled": true,
-    "adhan_sounds_enabled": true
+    "adhan_sounds_enabled": true,
+    "youtube_playlists_enabled": true,
+    "youtube_podcasts_enabled": true
   },
 
   "lifecycle": {

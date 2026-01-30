@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "contentVersion": "1.0.0",
+  "lastUpdated": "2026-01-30T00:00:00Z",
+  "items": [
+    {
+      "id": "amr_khaled",
+      "nameAr": "عمرو خالد",
+      "nameEn": "Amr Khaled",
+      "imageAsset": "owner_amr_khaled",
+      "imageURL": null,
+      "playlists": [
+        { "playlistId": "PLhbs8A5De9zSB471YWmrzKMyU1zMM4TH4", "firstVideoId": "seGp27f4Wt8" },
+        { "playlistId": "PLhbs8A5De9zQQ2RjNZvIMEQ_JWYaBGP8e", "firstVideoId": "VoHQtkOzwvU" },
+        { "playlistId": "PLhbs8A5De9zSVObgh99rhe7FDHdw69Ua2", "firstVideoId": "20O8gzvRsmE" },
+        { "playlistId": "PLhbs8A5De9zSvoxMrljw59xlkZXPWTB46", "firstVideoId": "d3o67gSWBZQ" },
+        { "playlistId": "PLhbs8A5De9zSAQ8oDY4CDuvK9Xw4PyXbL", "firstVideoId": "XiqipRXc10w" },
+        { "playlistId": "PLhbs8A5De9zTnrwu4_lJvwrhS07oWudQl", "firstVideoId": "CgZgQ_nPhwE" },
+        { "playlistId": "PLhbs8A5De9zROh56gmXbYshcs_KPw4lJZ", "firstVideoId": "VhyTBRZKZmU" },
+        { "playlistId": "PLhbs8A5De9zTtOmQUAMWrh3_YcZVaey4S", "firstVideoId": "tn3bGRmFLNI" },
+        { "playlistId": "PLhbs8A5De9zRH3A1NjP9u6lwjvMQdcluz", "firstVideoId": "2I0hDIsZFTY" },
+        { "playlistId": "PLhbs8A5De9zTWUhd9bOjaoKlYYJPDTmBc", "firstVideoId": "80QLdVPxtaM" },
+        { "playlistId": "PLD4DEF3BF4DE7D98C", "firstVideoId": "0YKs5i7y5eo" },
+        { "playlistId": "PL5A1F9E625A6DB3B0", "firstVideoId": "von85c0xH5k" },
+        { "playlistId": "PLDF02D375CDBA4851", "firstVideoId": "Kx9Wj4vP69A" },
+        { "playlistId": "PLDB64CBEDD53756FF", "firstVideoId": "DXKiuJBBEv8" },
+        { "playlistId": "PL2651C81943CEC70A", "firstVideoId": "VF71aBCleKY" },
+        { "playlistId": "PL334BFE277C8B938B", "firstVideoId": "ZQWhXzkEPRo" }
+      ],
+      "enabled": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "mustafa_hosny",
+      "nameAr": "مصطفى حسني",
+      "nameEn": "Mustafa Hosny",
+      "imageAsset": "owner_mustafa_hosny",
+      "imageURL": null,
+      "playlists": [
+        { "playlistId": "PLiJggHtOlnN0nhA61PAioplM4Aw9L5W46", "firstVideoId": "BKt8Piw8pj4" },
+        { "playlistId": "PLiJggHtOlnN2QBBu5rZI-nut2F7jhC2fz", "firstVideoId": "DLdvfVszPwE" },
+        { "playlistId": "PLiJggHtOlnN0J-mETYwTd6MrzeeVCPFV1", "firstVideoId": "WJvubskzju4" },
+        { "playlistId": "PLiJggHtOlnN2flc892Gy1q48yFX9uvWLW", "firstVideoId": "HruuCEeLDvU" },
+        { "playlistId": "PLiJggHtOlnN27E8ZSitT2D9hXMHzlG68L", "firstVideoId": "zKUH0KFKCms" },
+        { "playlistId": "PLiJggHtOlnN0jqllxZtpK7_ZdEgF1GD99", "firstVideoId": "f_wb_JPE-Q4" },
+        { "playlistId": "PLiJggHtOlnN11XNY8H_rt18pYNeAb-7le", "firstVideoId": "JtwHadNR1Oc" },
+        { "playlistId": "PLiJggHtOlnN1rHTBCuoBvxAwbvVbX6qSM", "firstVideoId": "K2qq2vK-VQU" },
+        { "playlistId": "PLiJggHtOlnN0AwL36JY7o4jh1pRJc8GKN", "firstVideoId": "CGdMeBFRH4U" },
+        { "playlistId": "PLiJggHtOlnN3RUY0rG0ROSzhxQUXantCR", "firstVideoId": "Grg9m92Ukt0" },
+        { "playlistId": "PLiJggHtOlnN2VRTPbKjXycqLwvp0cPyU7", "firstVideoId": "qhYQeGgSSbM" },
+        { "playlistId": "PLiJggHtOlnN038F3ldvWIGuGi1UmeKVOF", "firstVideoId": "WzzZEnMHXDk" },
+        { "playlistId": "PLiJggHtOlnN1vsEZC0PXAeh-qBIfKynoH", "firstVideoId": "2YHaJC7tC8s" },
+        { "playlistId": "PLiJggHtOlnN1wFfrLnYcEaUdDuH5Paemh", "firstVideoId": "JKHtUY9quu4" },
+        { "playlistId": "PLiJggHtOlnN1qvHxHfIRhyL22rlj_Smce", "firstVideoId": "b6M319uoUTo" },
+        { "playlistId": "PLiJggHtOlnN2UJ5uE5q4JrCDMmTvRHnJ5", "firstVideoId": "dw4QW20u4ME" },
+        { "playlistId": "PLiJggHtOlnN0jaa9GavNxBJLR_0xMd7jm", "firstVideoId": "vO7dekdg1UY" },
+        { "playlistId": "PLiJggHtOlnN0XD85uxJEFBLGVRjt16kwO", "firstVideoId": "wARtjJknPoI" },
+        { "playlistId": "PLiJggHtOlnN2oJ0T-pM_i7LNg9-t4hcKp", "firstVideoId": "5ywfRc7HylM" },
+        { "playlistId": "PL331800A331F22D97", "firstVideoId": "xLpqfsEF2nI" },
+        { "playlistId": "PL8B9D9591222868F4", "firstVideoId": "O4WO9f57dTY" },
+        { "playlistId": "PLAEDB35078B44C00D", "firstVideoId": "NmkKkiGh9hU" },
+        { "playlistId": "PL61E3017B52F63FEF", "firstVideoId": "CsfgUACROco" }
+      ],
+      "enabled": true,
+      "sortOrder": 2
+    }
+  ]
+}
