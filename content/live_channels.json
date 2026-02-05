@@ -70,45 +70,6 @@
       "sortOrder": 2
     },
     {
-      "id": "quran_tv",
-      "nameKey": "live_quran_tv",
-      "descriptionKey": "live_quran_tv_desc",
-      "countryKey": "country_saudi_arabia",
-      "localizedNames": {
-        "ar": "قناة القرآن الكريم",
-        "en": "Al Quran Al Kareem TV"
-      },
-      "localizedDescriptions": {
-        "ar": "البث المباشر لقناة القرآن الكريم",
-        "en": "Al Quran Al Kareem TV live broadcast"
-      },
-      "streams": [
-        {
-          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
-          "type": "hls",
-          "priority": 1,
-          "label": "Akamaized"
-        },
-        {
-          "url": "https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8",
-          "type": "hls",
-          "priority": 2,
-          "label": "MagicTVBox"
-        }
-      ],
-      "externalURL": "https://www.youtube.com/watch?v=SKixRhGsRGo",
-      "icon": "tv.fill",
-      "iconPlatformMap": {
-        "ios": "tv.fill",
-        "android": "ic_tv",
-        "web": "tv"
-      },
-      "isLive": true,
-      "isAudioOnly": false,
-      "enabled": true,
-      "sortOrder": 3
-    },
-    {
       "id": "quran_radio",
       "nameKey": "live_quran_radio",
       "descriptionKey": "live_quran_radio_desc",
@@ -139,7 +100,7 @@
       "isLive": true,
       "isAudioOnly": true,
       "enabled": true,
-      "sortOrder": 4
+      "sortOrder": 3
     },
     {
       "id": "quran_radio_cairo",
@@ -178,7 +139,7 @@
       "isLive": true,
       "isAudioOnly": true,
       "enabled": true,
-      "sortOrder": 5
+      "sortOrder": 4
     }
   ]
 }
