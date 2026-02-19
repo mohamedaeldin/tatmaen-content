@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.1.0",
+  "contentVersion": "1.2.0",
   "lastUpdated": "2026-02-19T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/mohamedaeldin/tatmaen-content/main",
   "minimumAppVersion": "1.0.0",
@@ -173,6 +173,18 @@
       "sortOrder": 14,
       "dependencies": ["dua_categories"],
       "checksum": ""
+    },
+    {
+      "id": "names_of_allah",
+      "file": "content/names_of_allah.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "99 Names of Allah with meanings, benefits, and Quran/Hadith evidence (multilingual)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 15,
+      "dependencies": [],
+      "checksum": ""
     }
   ],
 
@@ -186,7 +198,8 @@
     "youtube_playlists_enabled": true,
     "youtube_podcasts_enabled": true,
     "athkar_enabled": true,
-    "dua_enabled": true
+    "dua_enabled": true,
+    "names_of_allah_enabled": true
   },
 
   "lifecycle": {
