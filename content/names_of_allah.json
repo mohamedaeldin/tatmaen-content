@@ -4,7 +4,7 @@
   "names": [
     {
       "id": 1,
-      "nameAr": "ٱلرَّحْمَنُ",
+      "nameAr": "ٱلرَّحْمَنُ",
       "nameEn": "The Most Gracious",
       "transliteration": "Ar-Rahman",
       "meaningAr": "ذو الرحمة الواسعة التي وسعت كل شيء",
@@ -13,14 +13,14 @@
       "benefitEn": "Whoever frequently remembers this name will find Allah's mercy in their heart",
       "evidence": {
         "type": "quran",
-        "textAr": "بِسْمِ ٱللَّهِ ٱلرَّحْمَنِ ٱلرَّحِيمِ",
+        "textAr": "بِسْمِ ٱللَّهِ ٱلرَّحْمَنِ ٱلرَّحِيمِ",
         "textEn": "In the name of Allah, the Most Gracious, the Most Merciful",
         "reference": "Al-Fatiha 1:1"
       }
     },
     {
       "id": 2,
-      "nameAr": "ٱلرَّحِيمُ",
+      "nameAr": "ٱلرَّحِيمُ",
       "nameEn": "The Most Merciful",
       "transliteration": "Ar-Raheem",
       "meaningAr": "ذو الرحمة الخاصة بالمؤمنين يوم القيامة",
@@ -45,14 +45,14 @@
       "benefitEn": "Whoever remembers this name at dawn, Allah will enrich them",
       "evidence": {
         "type": "quran",
-        "textAr": "فَتَعَالَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ",
+        "textAr": "فَتَعَالَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ",
         "textEn": "So exalted is Allah, the True King",
         "reference": "Ta-Ha 20:114"
       }
     },
     {
       "id": 4,
-      "nameAr": "ٱلْقُدُّوسُ",
+      "nameAr": "ٱلْقُدُّوسُ",
       "nameEn": "The Most Holy",
       "transliteration": "Al-Quddus",
       "meaningAr": "المنزه عن كل نقص وعيب",
@@ -61,14 +61,14 @@
       "benefitEn": "Whoever remembers this name, Allah purifies their heart",
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱللَّهُ ٱلَّذِي لَا إِلَهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ",
+        "textAr": "هُوَ ٱللَّهُ ٱلَّذِي لَا إِلَهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ",
         "textEn": "He is Allah, other than whom there is no deity, the King, the Holy",
         "reference": "Al-Hashr 59:23"
       }
     },
     {
       "id": 5,
-      "nameAr": "ٱلسَّلَامُ",
+      "nameAr": "ٱلسَّلَامُ",
       "nameEn": "The Source of Peace",
       "transliteration": "As-Salam",
       "meaningAr": "السالم من كل عيب ونقص، ومنه السلامة",
@@ -77,7 +77,7 @@
       "benefitEn": "Whoever remembers this name, Allah will protect them from all harm",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَامُ",
+        "textAr": "ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَامُ",
         "textEn": "The King, the Holy, the Source of Peace",
         "reference": "Al-Hashr 59:23"
       }
@@ -93,7 +93,7 @@
       "benefitEn": "Whoever remembers this name, Allah will grant them security on the Day of Judgment",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱلسَّلَامُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ",
+        "textAr": "ٱلسَّلَامُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ",
         "textEn": "The Source of Peace, the Guardian of Faith, the Overseer",
         "reference": "Al-Hashr 59:23"
       }
@@ -132,7 +132,7 @@
     },
     {
       "id": 9,
-      "nameAr": "ٱلْجَبَّارُ",
+      "nameAr": "ٱلْجَبَّارُ",
       "nameEn": "The Compeller",
       "transliteration": "Al-Jabbar",
       "meaningAr": "الذي يجبر الكسير ويغني الفقير ويصلح الأمور",
@@ -141,14 +141,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ",
+        "textAr": "ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ",
         "textEn": "The Almighty, the Compeller, the Supreme",
         "reference": "Al-Hashr 59:23"
       }
     },
     {
       "id": 10,
-      "nameAr": "ٱلْمُتَكَبِّرُ",
+      "nameAr": "ٱلْمُتَكَبِّرُ",
       "nameEn": "The Supreme",
       "transliteration": "Al-Mutakabbir",
       "meaningAr": "المتعالي عن صفات الخلق، ذو الكبرياء والعظمة",
@@ -157,7 +157,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَانَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+        "textAr": "ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَانَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
         "textEn": "The Compeller, the Supreme. Exalted is Allah above whatever they associate with Him",
         "reference": "Al-Hashr 59:23"
       }
@@ -173,7 +173,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱللَّهُ ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ",
+        "textAr": "هُوَ ٱللَّهُ ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ",
         "textEn": "He is Allah, the Creator, the Originator, the Fashioner",
         "reference": "Al-Hashr 59:24"
       }
@@ -189,14 +189,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ",
+        "textAr": "ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ",
         "textEn": "The Creator, the Originator, the Fashioner",
         "reference": "Al-Hashr 59:24"
       }
     },
     {
       "id": 13,
-      "nameAr": "ٱلْمُصَوِّرُ",
+      "nameAr": "ٱلْمُصَوِّرُ",
       "nameEn": "The Fashioner",
       "transliteration": "Al-Musawwir",
       "meaningAr": "الذي صوّر جميع الموجودات وأعطى كل شيء صورته",
@@ -205,14 +205,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱللَّهُ ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَاءُ ٱلْحُسْنَى",
+        "textAr": "هُوَ ٱللَّهُ ٱلْخَالِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَاءُ ٱلْحُسْنَى",
         "textEn": "He is Allah, the Creator, the Originator, the Fashioner. To Him belong the best names",
         "reference": "Al-Hashr 59:24"
       }
     },
     {
       "id": 14,
-      "nameAr": "ٱلْغَفَّارُ",
+      "nameAr": "ٱلْغَفَّارُ",
       "nameEn": "The Ever-Forgiving",
       "transliteration": "Al-Ghaffar",
       "meaningAr": "الذي يغفر الذنوب مهما عظمت ويستر العيوب",
@@ -221,14 +221,14 @@
       "benefitEn": "Whoever remembers this name, Allah will forgive their sins",
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ ٱهْتَدَى",
+        "textAr": "وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ ٱهْتَدَى",
         "textEn": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance",
         "reference": "Ta-Ha 20:82"
       }
     },
     {
       "id": 15,
-      "nameAr": "ٱلْقَهَّارُ",
+      "nameAr": "ٱلْقَهَّارُ",
       "nameEn": "The All-Subduer",
       "transliteration": "Al-Qahhar",
       "meaningAr": "الذي قهر جميع الخلائق وأذعنت له الموجودات",
@@ -237,14 +237,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "قُلِ ٱللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ ٱلْوَاحِدُ ٱلْقَهَّارُ",
+        "textAr": "قُلِ ٱللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ ٱلْوَاحِدُ ٱلْقَهَّارُ",
         "textEn": "Say: Allah is the Creator of all things, and He is the One, the All-Subduer",
         "reference": "Ar-Ra'd 13:16"
       }
     },
     {
       "id": 16,
-      "nameAr": "ٱلْوَهَّابُ",
+      "nameAr": "ٱلْوَهَّابُ",
       "nameEn": "The Bestower",
       "transliteration": "Al-Wahhab",
       "meaningAr": "الذي يهب لعباده ما يشاء بلا عوض ولا سبب",
@@ -253,14 +253,14 @@
       "benefitEn": "Whoever remembers this name, Allah will expand their provision",
       "evidence": {
         "type": "quran",
-        "textAr": "أَمْ عِنْدَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+        "textAr": "أَمْ عِنْدَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
         "textEn": "Or do they have the depositories of the mercy of your Lord, the Almighty, the Bestower?",
         "reference": "Sad 38:9"
       }
     },
     {
       "id": 17,
-      "nameAr": "ٱلرَّزَّاقُ",
+      "nameAr": "ٱلرَّزَّاقُ",
       "nameEn": "The Provider",
       "transliteration": "Ar-Razzaq",
       "meaningAr": "الذي يرزق جميع الخلائق ولا ينسى أحدًا من رزقه",
@@ -269,14 +269,14 @@
       "benefitEn": "Whoever remembers this name, Allah will provide for them from unexpected sources",
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
         "textEn": "Indeed, it is Allah who is the Provider, the firm possessor of strength",
         "reference": "Adh-Dhariyat 51:58"
       }
     },
     {
       "id": 18,
-      "nameAr": "ٱلْفَتَّاحُ",
+      "nameAr": "ٱلْفَتَّاحُ",
       "nameEn": "The Opener",
       "transliteration": "Al-Fattah",
       "meaningAr": "الذي يفتح أبواب الرحمة والرزق والنصر لعباده",
@@ -285,7 +285,7 @@
       "benefitEn": "Whoever remembers this name after Fajr prayer, Allah will open doors of goodness",
       "evidence": {
         "type": "quran",
-        "textAr": "وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ",
+        "textAr": "وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ",
         "textEn": "And He is the Opener, the All-Knowing",
         "reference": "Saba 34:26"
       }
@@ -301,7 +301,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "textAr": "وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
         "textEn": "And He is, of all things, All-Knowing",
         "reference": "Al-Baqarah 2:29"
       }
@@ -317,7 +317,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
+        "textAr": "وَٱللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
         "textEn": "And Allah withholds and extends, and to Him you will be returned",
         "reference": "Al-Baqarah 2:245"
       }
@@ -333,7 +333,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
+        "textAr": "وَٱللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
         "textEn": "And Allah withholds and extends, and to Him you will be returned",
         "reference": "Al-Baqarah 2:245"
       }
@@ -356,7 +356,7 @@
     },
     {
       "id": 23,
-      "nameAr": "ٱلرَّافِعُ",
+      "nameAr": "ٱلرَّافِعُ",
       "nameEn": "The Exalter",
       "transliteration": "Ar-Rafi'",
       "meaningAr": "الذي يرفع المؤمنين بالطاعة والإيمان",
@@ -365,14 +365,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "يَرْفَعِ ٱللَّهُ ٱلَّذِينَ آمَنُوا مِنْكُمْ وَٱلَّذِينَ أُوتُوا ٱلْعِلْمَ دَرَجَاتٍ",
+        "textAr": "يَرْفَعِ ٱللَّهُ ٱلَّذِينَ آمَنُوا مِنْكُمْ وَٱلَّذِينَ أُوتُوا ٱلْعِلْمَ دَرَجَاتٍ",
         "textEn": "Allah will raise those who have believed among you and those who were given knowledge, by degrees",
         "reference": "Al-Mujadila 58:11"
       }
     },
     {
       "id": 24,
-      "nameAr": "ٱلْمُعِزُّ",
+      "nameAr": "ٱلْمُعِزُّ",
       "nameEn": "The Bestower of Honor",
       "transliteration": "Al-Mu'izz",
       "meaningAr": "الذي يعز من يشاء من عباده بطاعته",
@@ -381,14 +381,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "تُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ",
+        "textAr": "تُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ",
         "textEn": "You honor whom You will and You humble whom You will",
         "reference": "Aal-Imran 3:26"
       }
     },
     {
       "id": 25,
-      "nameAr": "ٱلْمُذِلُّ",
+      "nameAr": "ٱلْمُذِلُّ",
       "nameEn": "The Humiliator",
       "transliteration": "Al-Mudhill",
       "meaningAr": "الذي يذل من يشاء من عباده بمعصيته",
@@ -397,14 +397,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "تُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ بِيَدِكَ ٱلْخَيْرُ",
+        "textAr": "تُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ بِيَدِكَ ٱلْخَيْرُ",
         "textEn": "You honor whom You will and You humble whom You will. In Your hand is all good",
         "reference": "Aal-Imran 3:26"
       }
     },
     {
       "id": 26,
-      "nameAr": "ٱلسَّمِيعُ",
+      "nameAr": "ٱلسَّمِيعُ",
       "nameEn": "The All-Hearing",
       "transliteration": "As-Sami'",
       "meaningAr": "الذي يسمع جميع الأصوات لا يخفى عليه شيء",
@@ -413,7 +413,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+        "textAr": "إِنَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
         "textEn": "Indeed, He is the All-Hearing, the All-Knowing",
         "reference": "Al-Baqarah 2:137"
       }
@@ -429,7 +429,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ كَانَ سَمِيعًا بَصِيرًا",
+        "textAr": "إِنَّ ٱللَّهَ كَانَ سَمِيعًا بَصِيرًا",
         "textEn": "Indeed, Allah is ever Hearing and Seeing",
         "reference": "An-Nisa 4:58"
       }
@@ -445,7 +445,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِي حَكَمًا",
+        "textAr": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِي حَكَمًا",
         "textEn": "Then is it other than Allah I should seek as judge?",
         "reference": "Al-An'am 6:114"
       }
@@ -461,14 +461,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَانِ",
+        "textAr": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَانِ",
         "textEn": "Indeed, Allah orders justice and good conduct",
         "reference": "An-Nahl 16:90"
       }
     },
     {
       "id": 30,
-      "nameAr": "ٱللَّطِيفُ",
+      "nameAr": "ٱللَّطِيفُ",
       "nameEn": "The Subtle One",
       "transliteration": "Al-Latif",
       "meaningAr": "الذي يلطف بعباده ويوصل إليهم ما ينفعهم بلطف ورحمة",
@@ -477,7 +477,7 @@
       "benefitEn": "Whoever remembers this name, Allah will be gentle with them in their affairs",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱللَّهُ لَطِيفٌ بِعِبَادِهِ",
+        "textAr": "ٱللَّهُ لَطِيفٌ بِعِبَادِهِ",
         "textEn": "Allah is Subtle with His servants",
         "reference": "Ash-Shura 42:19"
       }
@@ -509,7 +509,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱللَّهُ غَنِيٌّ حَلِيمٌ",
+        "textAr": "وَٱللَّهُ غَنِيٌّ حَلِيمٌ",
         "textEn": "And Allah is Self-Sufficient and Forbearing",
         "reference": "Al-Baqarah 2:263"
       }
@@ -525,7 +525,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَهُوَ ٱلْعَلِيُّ ٱلْعَظِيمُ",
+        "textAr": "وَهُوَ ٱلْعَلِيُّ ٱلْعَظِيمُ",
         "textEn": "And He is the Most High, the Magnificent",
         "reference": "Al-Baqarah 2:255"
       }
@@ -541,14 +541,14 @@
       "benefitEn": "Whoever remembers this name, Allah will accept their repentance",
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ لِلنَّاسِ عَلَى ظُلْمِهِمْ",
+        "textAr": "وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ لِلنَّاسِ عَلَى ظُلْمِهِمْ",
         "textEn": "And indeed, your Lord is full of forgiveness for the people despite their wrongdoing",
         "reference": "Ar-Ra'd 13:6"
       }
     },
     {
       "id": 35,
-      "nameAr": "ٱلشَّكُورُ",
+      "nameAr": "ٱلشَّكُورُ",
       "nameEn": "The Appreciative",
       "transliteration": "Ash-Shakur",
       "meaningAr": "الذي يشكر القليل من العمل ويثيب عليه الكثير",
@@ -557,14 +557,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+        "textAr": "إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
         "textEn": "Indeed, our Lord is Forgiving and Appreciative",
         "reference": "Fatir 35:34"
       }
     },
     {
       "id": 36,
-      "nameAr": "ٱلْعَلِيُّ",
+      "nameAr": "ٱلْعَلِيُّ",
       "nameEn": "The Most High",
       "transliteration": "Al-'Aliyy",
       "meaningAr": "الذي علا فوق كل شيء بذاته وصفاته",
@@ -573,7 +573,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَهُوَ ٱلْعَلِيُّ ٱلْعَظِيمُ",
+        "textAr": "وَهُوَ ٱلْعَلِيُّ ٱلْعَظِيمُ",
         "textEn": "And He is the Most High, the Magnificent",
         "reference": "Al-Baqarah 2:255"
       }
@@ -589,7 +589,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "عَالِمُ ٱلْغَيْبِ وَٱلشَّهَادَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
+        "textAr": "عَالِمُ ٱلْغَيْبِ وَٱلشَّهَادَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
         "textEn": "Knower of the unseen and the witnessed, the Most Great, the Exalted",
         "reference": "Ar-Ra'd 13:9"
       }
@@ -605,7 +605,7 @@
       "benefitEn": "Whoever remembers this name, Allah will protect them from all evil",
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ رَبِّي عَلَى كُلِّ شَيْءٍ حَفِيظٌ",
+        "textAr": "إِنَّ رَبِّي عَلَى كُلِّ شَيْءٍ حَفِيظٌ",
         "textEn": "Indeed, my Lord is, over all things, Guardian",
         "reference": "Hud 11:57"
       }
@@ -621,7 +621,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَكَانَ ٱللَّهُ عَلَى كُلِّ شَيْءٍ مُقِيتًا",
+        "textAr": "وَكَانَ ٱللَّهُ عَلَى كُلِّ شَيْءٍ مُقِيتًا",
         "textEn": "And ever is Allah, over all things, a Sustainer",
         "reference": "An-Nisa 4:85"
       }
@@ -637,7 +637,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَكَفَى بِٱللَّهِ حَسِيبًا",
+        "textAr": "وَكَفَى بِٱللَّهِ حَسِيبًا",
         "textEn": "And sufficient is Allah as Reckoner",
         "reference": "An-Nisa 4:6"
       }
@@ -653,7 +653,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "تَبَارَكَ ٱسْمُ رَبِّكَ ذِي ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+        "textAr": "تَبَارَكَ ٱسْمُ رَبِّكَ ذِي ٱلْجَلَالِ وَٱلْإِكْرَامِ",
         "textEn": "Blessed is the name of your Lord, Owner of Majesty and Honor",
         "reference": "Ar-Rahman 55:78"
       }
@@ -669,14 +669,14 @@
       "benefitEn": "Whoever remembers this name, Allah will honor them in this life and the Hereafter",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+        "textAr": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
         "textEn": "Read, and your Lord is the Most Generous",
         "reference": "Al-'Alaq 96:3"
       }
     },
     {
       "id": 43,
-      "nameAr": "ٱلرَّقِيبُ",
+      "nameAr": "ٱلرَّقِيبُ",
       "nameEn": "The Watchful",
       "transliteration": "Ar-Raqib",
       "meaningAr": "الذي يراقب كل شيء ولا يغفل عن شيء",
@@ -685,7 +685,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+        "textAr": "إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
         "textEn": "Indeed, Allah is ever, over you, an Observer",
         "reference": "An-Nisa 4:1"
       }
@@ -701,7 +701,7 @@
       "benefitEn": "Whoever remembers this name, Allah will answer their supplications",
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+        "textAr": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
         "textEn": "Indeed, my Lord is near and responsive",
         "reference": "Hud 11:61"
       }
@@ -717,7 +717,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱللَّهُ وَاسِعٌ عَلِيمٌ",
+        "textAr": "وَٱللَّهُ وَاسِعٌ عَلِيمٌ",
         "textEn": "And Allah is All-Encompassing and All-Knowing",
         "reference": "Al-Baqarah 2:261"
       }
@@ -781,14 +781,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَأَنَّ ٱللَّهَ يَبْعَثُ مَنْ فِي ٱلْقُبُورِ",
+        "textAr": "وَأَنَّ ٱللَّهَ يَبْعَثُ مَنْ فِي ٱلْقُبُورِ",
         "textEn": "And that Allah will resurrect those in the graves",
         "reference": "Al-Hajj 22:7"
       }
     },
     {
       "id": 50,
-      "nameAr": "ٱلشَّهِيدُ",
+      "nameAr": "ٱلشَّهِيدُ",
       "nameEn": "The Witness",
       "transliteration": "Ash-Shahid",
       "meaningAr": "الذي يشهد على كل شيء ولا يغيب عنه شيء",
@@ -797,14 +797,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱللَّهُ عَلَى كُلِّ شَيْءٍ شَهِيدٌ",
+        "textAr": "وَٱللَّهُ عَلَى كُلِّ شَيْءٍ شَهِيدٌ",
         "textEn": "And Allah is, over all things, Witness",
         "reference": "Al-Mujadila 58:6"
       }
     },
     {
       "id": 51,
-      "nameAr": "ٱلْحَقُّ",
+      "nameAr": "ٱلْحَقُّ",
       "nameEn": "The Truth",
       "transliteration": "Al-Haqq",
       "meaningAr": "الموجود حقًا الذي لا شك في وجوده",
@@ -813,7 +813,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "ذَلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ",
+        "textAr": "ذَلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ",
         "textEn": "That is because Allah is the Truth",
         "reference": "Al-Hajj 22:6"
       }
@@ -829,14 +829,14 @@
       "benefitEn": "Whoever remembers this name, Allah will suffice them in their concerns",
       "evidence": {
         "type": "quran",
-        "textAr": "وَكَفَى بِٱللَّهِ وَكِيلًا",
+        "textAr": "وَكَفَى بِٱللَّهِ وَكِيلًا",
         "textEn": "And sufficient is Allah as Trustee",
         "reference": "An-Nisa 4:81"
       }
     },
     {
       "id": 53,
-      "nameAr": "ٱلْقَوِيُّ",
+      "nameAr": "ٱلْقَوِيُّ",
       "nameEn": "The Most Strong",
       "transliteration": "Al-Qawiyy",
       "meaningAr": "ذو القوة المطلقة التي لا تُغلب",
@@ -845,7 +845,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "textAr": "إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
         "textEn": "Indeed, Allah is Strong and Almighty",
         "reference": "Al-Hajj 22:40"
       }
@@ -861,14 +861,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
         "textEn": "Indeed, it is Allah who is the Provider, the Firm possessor of strength",
         "reference": "Adh-Dhariyat 51:58"
       }
     },
     {
       "id": 55,
-      "nameAr": "ٱلْوَلِيُّ",
+      "nameAr": "ٱلْوَلِيُّ",
       "nameEn": "The Protecting Friend",
       "transliteration": "Al-Waliyy",
       "meaningAr": "الذي يتولى أمور المؤمنين وينصرهم",
@@ -877,7 +877,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَهُوَ ٱلْوَلِيُّ ٱلْحَمِيدُ",
+        "textAr": "وَهُوَ ٱلْوَلِيُّ ٱلْحَمِيدُ",
         "textEn": "And He is the Protecting Friend, the Praiseworthy",
         "reference": "Ash-Shura 42:28"
       }
@@ -893,7 +893,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلْغَنِيُّ ٱلْحَمِيدُ",
+        "textAr": "إِنَّ ٱللَّهَ هُوَ ٱلْغَنِيُّ ٱلْحَمِيدُ",
         "textEn": "Indeed, Allah is the Self-Sufficient, the Praiseworthy",
         "reference": "Luqman 31:26"
       }
@@ -909,7 +909,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَأَحْصَى كُلَّ شَيْءٍ عَدَدًا",
+        "textAr": "وَأَحْصَى كُلَّ شَيْءٍ عَدَدًا",
         "textEn": "And has enumerated everything in number",
         "reference": "Al-Jinn 72:28"
       }
@@ -925,7 +925,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+        "textAr": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
         "textEn": "Indeed, it is He who originates and repeats",
         "reference": "Al-Buruj 85:13"
       }
@@ -941,7 +941,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+        "textAr": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
         "textEn": "Indeed, it is He who originates and repeats",
         "reference": "Al-Buruj 85:13"
       }
@@ -957,7 +957,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ۞ وَهُوَ ٱلَّذِي يُحْيِي وَيُمِيتُ",
+        "textAr": "إِنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ۞ وَهُوَ ٱلَّذِي يُحْيِي وَيُمِيتُ",
         "textEn": "Indeed, He is over all things competent. And it is He who gives life and causes death",
         "reference": "Al-Mu'minun 23:80"
       }
@@ -973,14 +973,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱلَّذِي يُحْيِي وَيُمِيتُ",
+        "textAr": "هُوَ ٱلَّذِي يُحْيِي وَيُمِيتُ",
         "textEn": "It is He who gives life and causes death",
         "reference": "Yunus 10:56"
       }
     },
     {
       "id": 62,
-      "nameAr": "ٱلْحَيُّ",
+      "nameAr": "ٱلْحَيُّ",
       "nameEn": "The Ever-Living",
       "transliteration": "Al-Hayy",
       "meaningAr": "الحي الذي لا يموت، الباقي الدائم",
@@ -989,14 +989,14 @@
       "benefitEn": "Whoever remembers this name, Allah will enliven their heart",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱللَّهُ لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ",
+        "textAr": "ٱللَّهُ لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ",
         "textEn": "Allah - there is no deity except Him, the Ever-Living, the Self-Sustaining",
         "reference": "Al-Baqarah 2:255"
       }
     },
     {
       "id": 63,
-      "nameAr": "ٱلْقَيُّومُ",
+      "nameAr": "ٱلْقَيُّومُ",
       "nameEn": "The Self-Sustaining",
       "transliteration": "Al-Qayyum",
       "meaningAr": "القائم بذاته المقيم لغيره، الذي لا يحتاج إلى أحد",
@@ -1005,7 +1005,7 @@
       "benefitEn": "Whoever remembers this name, Allah will strengthen them in obedience",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱللَّهُ لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ",
+        "textAr": "ٱللَّهُ لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ",
         "textEn": "Allah - there is no deity except Him, the Ever-Living, the Self-Sustaining",
         "reference": "Aal-Imran 3:2"
       }
@@ -1053,7 +1053,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ ٱلرَّحْمَنُ ٱلرَّحِيمُ",
+        "textAr": "وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ ٱلرَّحْمَنُ ٱلرَّحِيمُ",
         "textEn": "And your god is one God. There is no deity except Him, the Most Gracious, the Most Merciful",
         "reference": "Al-Baqarah 2:163"
       }
@@ -1069,14 +1069,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+        "textAr": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
         "textEn": "Say: He is Allah, the One",
         "reference": "Al-Ikhlas 112:1"
       }
     },
     {
       "id": 68,
-      "nameAr": "ٱلصَّمَدُ",
+      "nameAr": "ٱلصَّمَدُ",
       "nameEn": "The Eternal Refuge",
       "transliteration": "As-Samad",
       "meaningAr": "السيد الذي يُصمد إليه في الحوائج، الغني عن كل أحد",
@@ -1085,7 +1085,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "ٱللَّهُ ٱلصَّمَدُ",
+        "textAr": "ٱللَّهُ ٱلصَّمَدُ",
         "textEn": "Allah, the Eternal Refuge",
         "reference": "Al-Ikhlas 112:2"
       }
@@ -1124,7 +1124,7 @@
     },
     {
       "id": 71,
-      "nameAr": "ٱلْمُقَدِّمُ",
+      "nameAr": "ٱلْمُقَدِّمُ",
       "nameEn": "The Expediter",
       "transliteration": "Al-Muqaddim",
       "meaningAr": "الذي يقدم من يشاء بفضله",
@@ -1140,7 +1140,7 @@
     },
     {
       "id": 72,
-      "nameAr": "ٱلْمُؤَخِّرُ",
+      "nameAr": "ٱلْمُؤَخِّرُ",
       "nameEn": "The Delayer",
       "transliteration": "Al-Mu'akhkhir",
       "meaningAr": "الذي يؤخر من يشاء بعدله",
@@ -1156,7 +1156,7 @@
     },
     {
       "id": 73,
-      "nameAr": "ٱلْأَوَّلُ",
+      "nameAr": "ٱلْأَوَّلُ",
       "nameEn": "The First",
       "transliteration": "Al-Awwal",
       "meaningAr": "الذي ليس قبله شيء، الأزلي بلا بداية",
@@ -1165,7 +1165,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱلْأَوَّلُ وَٱلْآخِرُ وَٱلظَّاهِرُ وَٱلْبَاطِنُ",
+        "textAr": "هُوَ ٱلْأَوَّلُ وَٱلْآخِرُ وَٱلظَّاهِرُ وَٱلْبَاطِنُ",
         "textEn": "He is the First and the Last, the Ascendant and the Intimate",
         "reference": "Al-Hadid 57:3"
       }
@@ -1181,14 +1181,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "هُوَ ٱلْأَوَّلُ وَٱلْآخِرُ",
+        "textAr": "هُوَ ٱلْأَوَّلُ وَٱلْآخِرُ",
         "textEn": "He is the First and the Last",
         "reference": "Al-Hadid 57:3"
       }
     },
     {
       "id": 75,
-      "nameAr": "ٱلظَّاهِرُ",
+      "nameAr": "ٱلظَّاهِرُ",
       "nameEn": "The Manifest",
       "transliteration": "Az-Zahir",
       "meaningAr": "الذي ظهر فوق كل شيء فليس فوقه شيء",
@@ -1197,7 +1197,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱلظَّاهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "textAr": "وَٱلظَّاهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
         "textEn": "The Ascendant and the Intimate, and He is, of all things, Knowing",
         "reference": "Al-Hadid 57:3"
       }
@@ -1213,7 +1213,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَٱلظَّاهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "textAr": "وَٱلظَّاهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
         "textEn": "The Ascendant and the Intimate, and He is, of all things, Knowing",
         "reference": "Al-Hadid 57:3"
       }
@@ -1245,14 +1245,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "عَالِمُ ٱلْغَيْبِ وَٱلشَّهَادَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
+        "textAr": "عَالِمُ ٱلْغَيْبِ وَٱلشَّهَادَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
         "textEn": "Knower of the unseen and the witnessed, the Most Great, the Most Exalted",
         "reference": "Ar-Ra'd 13:9"
       }
     },
     {
       "id": 79,
-      "nameAr": "ٱلْبَرُّ",
+      "nameAr": "ٱلْبَرُّ",
       "nameEn": "The Source of Goodness",
       "transliteration": "Al-Barr",
       "meaningAr": "الذي يبر عباده ويحسن إليهم",
@@ -1261,14 +1261,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+        "textAr": "إِنَّهُ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
         "textEn": "Indeed, it is He who is the Good, the Merciful",
         "reference": "At-Tur 52:28"
       }
     },
     {
       "id": 80,
-      "nameAr": "ٱلتَّوَّابُ",
+      "nameAr": "ٱلتَّوَّابُ",
       "nameEn": "The Acceptor of Repentance",
       "transliteration": "At-Tawwab",
       "meaningAr": "الذي يقبل توبة عباده ويعفو عنهم",
@@ -1277,7 +1277,7 @@
       "benefitEn": "Whoever remembers this name, Allah will open for them the door of repentance",
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+        "textAr": "إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
         "textEn": "Indeed, it is He who is the Acceptor of Repentance, the Merciful",
         "reference": "Al-Baqarah 2:37"
       }
@@ -1293,14 +1293,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنْتَقِمُونَ",
+        "textAr": "إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنْتَقِمُونَ",
         "textEn": "Indeed, from the criminals We will take retribution",
         "reference": "As-Sajdah 32:22"
       }
     },
     {
       "id": 82,
-      "nameAr": "ٱلْعَفُوُّ",
+      "nameAr": "ٱلْعَفُوُّ",
       "nameEn": "The Pardoner",
       "transliteration": "Al-'Afuww",
       "meaningAr": "الذي يمحو الذنوب ويتجاوز عن المعاصي",
@@ -1309,14 +1309,14 @@
       "benefitEn": "Whoever remembers this name, Allah will pardon and overlook their sins",
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+        "textAr": "إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
         "textEn": "Indeed, Allah is ever Pardoning and Forgiving",
         "reference": "An-Nisa 4:99"
       }
     },
     {
       "id": 83,
-      "nameAr": "ٱلرَّءُوفُ",
+      "nameAr": "ٱلرَّءُوفُ",
       "nameEn": "The Most Kind",
       "transliteration": "Ar-Ra'uf",
       "meaningAr": "ذو الرأفة والرحمة الخاصة بعباده",
@@ -1325,7 +1325,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+        "textAr": "إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَحِيمٌ",
         "textEn": "Indeed, Allah is, to the people, Kind and Merciful",
         "reference": "Al-Baqarah 2:143"
       }
@@ -1341,7 +1341,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "قُلِ ٱللَّهُمَّ مَالِكَ ٱلْمُلْكِ تُؤْتِي ٱلْمُلْكَ مَنْ تَشَاءُ",
+        "textAr": "قُلِ ٱللَّهُمَّ مَالِكَ ٱلْمُلْكِ تُؤْتِي ٱلْمُلْكَ مَنْ تَشَاءُ",
         "textEn": "Say: O Allah, Owner of Sovereignty, You give sovereignty to whom You will",
         "reference": "Aal-Imran 3:26"
       }
@@ -1357,7 +1357,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "تَبَارَكَ ٱسْمُ رَبِّكَ ذِي ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+        "textAr": "تَبَارَكَ ٱسْمُ رَبِّكَ ذِي ٱلْجَلَالِ وَٱلْإِكْرَامِ",
         "textEn": "Blessed is the name of your Lord, Owner of Majesty and Honor",
         "reference": "Ar-Rahman 55:78"
       }
@@ -1373,7 +1373,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "شَهِدَ ٱللَّهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَٱلْمَلَائِكَةُ وَأُولُو ٱلْعِلْمِ قَائِمًا بِٱلْقِسْطِ",
+        "textAr": "شَهِدَ ٱللَّهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَٱلْمَلَائِكَةُ وَأُولُو ٱلْعِلْمِ قَائِمًا بِٱلْقِسْطِ",
         "textEn": "Allah witnesses that there is no deity except Him, and so do the angels and those of knowledge, maintaining justice",
         "reference": "Aal-Imran 3:18"
       }
@@ -1389,14 +1389,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "رَبَّنَا إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَا رَيْبَ فِيهِ",
+        "textAr": "رَبَّنَا إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَا رَيْبَ فِيهِ",
         "textEn": "Our Lord, surely You will gather the people for a Day about which there is no doubt",
         "reference": "Aal-Imran 3:9"
       }
     },
     {
       "id": 88,
-      "nameAr": "ٱلْغَنِيُّ",
+      "nameAr": "ٱلْغَنِيُّ",
       "nameEn": "The Self-Sufficient",
       "transliteration": "Al-Ghaniyy",
       "meaningAr": "المستغني عن كل شيء والكل محتاج إليه",
@@ -1405,7 +1405,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "يَا أَيُّهَا ٱلنَّاسُ أَنْتُمُ ٱلْفُقَرَاءُ إِلَى ٱللَّهِ وَٱللَّهُ هُوَ ٱلْغَنِيُّ ٱلْحَمِيدُ",
+        "textAr": "يَا أَيُّهَا ٱلنَّاسُ أَنْتُمُ ٱلْفُقَرَاءُ إِلَى ٱللَّهِ وَٱللَّهُ هُوَ ٱلْغَنِيُّ ٱلْحَمِيدُ",
         "textEn": "O mankind, you are those in need of Allah, while Allah is the Self-Sufficient, the Praiseworthy",
         "reference": "Fatir 35:15"
       }
@@ -1421,7 +1421,7 @@
       "benefitEn": "Whoever remembers this name, Allah will enrich them from His bounty",
       "evidence": {
         "type": "quran",
-        "textAr": "وَأَنَّهُ هُوَ أَغْنَى وَأَقْنَى",
+        "textAr": "وَأَنَّهُ هُوَ أَغْنَى وَأَقْنَى",
         "textEn": "And that it is He who enriches and suffices",
         "reference": "An-Najm 53:48"
       }
@@ -1444,7 +1444,7 @@
     },
     {
       "id": 91,
-      "nameAr": "ٱلضَّارُّ",
+      "nameAr": "ٱلضَّارُّ",
       "nameEn": "The Distresser",
       "transliteration": "Ad-Darr",
       "meaningAr": "الذي يقدر الضر على من يشاء بحكمته",
@@ -1453,14 +1453,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِنْ يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
+        "textAr": "وَإِنْ يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
         "textEn": "And if Allah should touch you with adversity, there is no remover of it except Him",
         "reference": "Al-An'am 6:17"
       }
     },
     {
       "id": 92,
-      "nameAr": "ٱلنَّافِعُ",
+      "nameAr": "ٱلنَّافِعُ",
       "nameEn": "The Benefactor",
       "transliteration": "An-Nafi'",
       "meaningAr": "الذي يقدر النفع لمن يشاء من عباده",
@@ -1469,14 +1469,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ ٱللَّهِ إِنْ أَرَادَنِيَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ",
+        "textAr": "قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ ٱللَّهِ إِنْ أَرَادَنِيَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ",
         "textEn": "Say: Have you considered that which you invoke besides Allah? If Allah intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?",
         "reference": "Az-Zumar 39:38"
       }
     },
     {
       "id": 93,
-      "nameAr": "ٱلنُّورُ",
+      "nameAr": "ٱلنُّورُ",
       "nameEn": "The Light",
       "transliteration": "An-Nur",
       "meaningAr": "نور السماوات والأرض الذي أنار بنوره كل شيء",
@@ -1485,7 +1485,7 @@
       "benefitEn": "Whoever remembers this name, Allah will illuminate their insight",
       "evidence": {
         "type": "quran",
-        "textAr": "ٱللَّهُ نُورُ ٱلسَّمَاوَاتِ وَٱلْأَرْضِ",
+        "textAr": "ٱللَّهُ نُورُ ٱلسَّمَاوَاتِ وَٱلْأَرْضِ",
         "textEn": "Allah is the Light of the heavens and the earth",
         "reference": "An-Nur 24:35"
       }
@@ -1501,7 +1501,7 @@
       "benefitEn": "Whoever remembers this name, Allah will guide them to the truth",
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ آمَنُوا إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+        "textAr": "وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ آمَنُوا إِلَى صِرَاطٍ مُسْتَقِيمٍ",
         "textEn": "And indeed, Allah is the Guide of those who have believed to a straight path",
         "reference": "Al-Hajj 22:54"
       }
@@ -1517,7 +1517,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "بَدِيعُ ٱلسَّمَاوَاتِ وَٱلْأَرْضِ",
+        "textAr": "بَدِيعُ ٱلسَّمَاوَاتِ وَٱلْأَرْضِ",
         "textEn": "Originator of the heavens and the earth",
         "reference": "Al-Baqarah 2:117"
       }
@@ -1533,7 +1533,7 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَيَبْقَى وَجْهُ رَبِّكَ ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+        "textAr": "وَيَبْقَى وَجْهُ رَبِّكَ ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
         "textEn": "And there will remain the Face of your Lord, Owner of Majesty and Honor",
         "reference": "Ar-Rahman 55:27"
       }
@@ -1549,14 +1549,14 @@
       "benefitEn": null,
       "evidence": {
         "type": "quran",
-        "textAr": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ ٱلْوَارِثُونَ",
+        "textAr": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ ٱلْوَارِثُونَ",
         "textEn": "And indeed, it is We who give life and cause death, and We are the Inheritor",
         "reference": "Al-Hijr 15:23"
       }
     },
     {
       "id": 98,
-      "nameAr": "ٱلرَّشِيدُ",
+      "nameAr": "ٱلرَّشِيدُ",
       "nameEn": "The Guide to the Right Path",
       "transliteration": "Ar-Rashid",
       "meaningAr": "الذي يرشد الخلق إلى مصالحهم بحكمته",
@@ -1572,7 +1572,7 @@
     },
     {
       "id": 99,
-      "nameAr": "ٱلصَّبُورُ",
+      "nameAr": "ٱلصَّبُورُ",
       "nameEn": "The Most Patient",
       "transliteration": "As-Sabur",
       "meaningAr": "الذي لا يعجل بالعقوبة على عباده بل يمهلهم ويتأنى بهم",
