@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.2.0",
+  "contentVersion": "1.3.0",
   "lastUpdated": "2026-02-19T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/mohamedaeldin/tatmaen-content/main",
   "minimumAppVersion": "1.0.0",
@@ -185,6 +185,54 @@
       "sortOrder": 15,
       "dependencies": [],
       "checksum": ""
+    },
+    {
+      "id": "fasting_types",
+      "file": "content/fasting_types.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "Fasting types and recommended days (Ayyam al-Beed, Monday/Thursday, Shawwal, etc.)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 16,
+      "dependencies": [],
+      "checksum": ""
+    },
+    {
+      "id": "islamic_events",
+      "file": "content/islamic_events.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "Islamic calendar events and occasions (Hijri months, holidays, recommended fasting days)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 17,
+      "dependencies": [],
+      "checksum": ""
+    },
+    {
+      "id": "prayer_hub_ahadith",
+      "file": "content/prayer_hub_ahadith.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "Ahadith related to prayer virtues and rulings (multilingual)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 18,
+      "dependencies": [],
+      "checksum": ""
+    },
+    {
+      "id": "prayer_hub_wudu",
+      "file": "content/prayer_hub_wudu.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "Wudu (ablution) step-by-step guide with descriptions (multilingual)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 19,
+      "dependencies": [],
+      "checksum": ""
     }
   ],
 
@@ -199,7 +247,11 @@
     "youtube_podcasts_enabled": true,
     "athkar_enabled": true,
     "dua_enabled": true,
-    "names_of_allah_enabled": true
+    "names_of_allah_enabled": true,
+    "fasting_types_enabled": true,
+    "islamic_events_enabled": true,
+    "prayer_hub_ahadith_enabled": true,
+    "prayer_hub_wudu_enabled": true
   },
 
   "lifecycle": {

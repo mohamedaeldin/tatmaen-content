@@ -1,0 +1,266 @@
+[
+    {
+        "id": "ayyam_al_beed",
+        "nameAr": "الأيام البيض",
+        "nameEn": "Al-Ayyam Al-Beed",
+        "descriptionAr": "صيام أيام ١٣ و١٤ و١٥ من كل شهر هجري، وسُميت بالبيض لابيضاض لياليها بنور القمر",
+        "descriptionEn": "Fasting the 13th, 14th, and 15th of each Hijri month, called 'the white days' because the moon is full and bright",
+        "hadithAr": "عن أبي هريرة رضي الله عنه قال: أوصاني خليلي صلى الله عليه وسلم بثلاث: صيام ثلاثة أيام من كل شهر، وركعتي الضحى، وأن أوتر قبل أن أنام",
+        "hadithEn": "Abu Hurayrah (may Allah be pleased with him) said: My close friend (the Prophet ﷺ) advised me to do three things: fast three days of every month, pray two rak'ahs of Duha, and pray Witr before sleeping.",
+        "hadithSourceAr": "رواه البخاري ومسلم",
+        "hadithSourceEn": "Narrated by Al-Bukhari and Muslim",
+        "benefitsAr": [
+            "أجر صيام الدهر كله",
+            "اتباع لسنة النبي ﷺ",
+            "تطهير النفس وتزكيتها",
+            "تعويد النفس على الصيام"
+        ],
+        "benefitsEn": [
+            "Reward equivalent to fasting the entire year",
+            "Following the Sunnah of the Prophet ﷺ",
+            "Purification and refinement of the soul",
+            "Training oneself to fast regularly"
+        ],
+        "icon": "moon.stars.fill"
+    },
+    {
+        "id": "monday_thursday",
+        "nameAr": "الاثنين والخميس",
+        "nameEn": "Monday & Thursday",
+        "descriptionAr": "صيام يومي الاثنين والخميس من كل أسبوع، وهما يومان تُعرض فيهما الأعمال على الله تعالى",
+        "descriptionEn": "Fasting every Monday and Thursday, two days when deeds are presented to Allah the Almighty",
+        "hadithAr": "سُئل رسول الله ﷺ عن صوم يوم الاثنين فقال: ذاك يومٌ وُلِدتُ فيه، ويومٌ بُعِثتُ أو أُنزِل عليَّ فيه",
+        "hadithEn": "The Messenger of Allah ﷺ was asked about fasting on Mondays. He said: That is the day on which I was born and the day on which I received revelation.",
+        "hadithSourceAr": "رواه مسلم",
+        "hadithSourceEn": "Narrated by Muslim",
+        "benefitsAr": [
+            "الأعمال تُعرض على الله في هذين اليومين",
+            "يوم الاثنين يوم مولد النبي ﷺ ونزول الوحي",
+            "مغفرة الذنوب بين الاثنين والخميس",
+            "سنة أسبوعية يسيرة ومباركة"
+        ],
+        "benefitsEn": [
+            "Deeds are presented to Allah on these two days",
+            "Monday is the day the Prophet ﷺ was born and received revelation",
+            "Sins are forgiven between Monday and Thursday",
+            "A simple and blessed weekly Sunnah"
+        ],
+        "icon": "calendar.badge.clock"
+    },
+    {
+        "id": "three_days_per_month",
+        "nameAr": "٣ أيام من كل شهر",
+        "nameEn": "3 Days Per Month",
+        "descriptionAr": "صيام ثلاثة أيام من كل شهر، ويمكن أن تكون في أي وقت من الشهر",
+        "descriptionEn": "Fasting any three days of each month, which can be at any time during the month",
+        "hadithAr": "عن عبد الله بن عمرو بن العاص رضي الله عنهما قال: قال رسول الله ﷺ: صوم ثلاثة أيام من كل شهر صوم الدهر كله",
+        "hadithEn": "Abdullah ibn Amr ibn al-As (may Allah be pleased with them) reported that the Messenger of Allah ﷺ said: Fasting three days of every month is equivalent to fasting the entire year.",
+        "hadithSourceAr": "رواه البخاري ومسلم",
+        "hadithSourceEn": "Narrated by Al-Bukhari and Muslim",
+        "benefitsAr": [
+            "أجر صيام الدهر (الحسنة بعشر أمثالها)",
+            "مرونة في اختيار الأيام",
+            "تيسير على المسلم في العبادة",
+            "تعويد النفس على الصبر والتقوى"
+        ],
+        "benefitsEn": [
+            "Reward of fasting the whole year (each good deed multiplied by ten)",
+            "Flexibility in choosing which days to fast",
+            "Ease in worship for the Muslim",
+            "Training the soul in patience and piety"
+        ],
+        "icon": "3.circle.fill"
+    },
+    {
+        "id": "six_shawwal",
+        "nameAr": "ست من شوال",
+        "nameEn": "Six Days of Shawwal",
+        "descriptionAr": "صيام ستة أيام من شهر شوال بعد رمضان، ويجوز صيامها متتابعة أو متفرقة",
+        "descriptionEn": "Fasting six days during the month of Shawwal after Ramadan, which can be consecutive or spread out",
+        "hadithAr": "عن أبي أيوب الأنصاري رضي الله عنه أن رسول الله ﷺ قال: من صام رمضان ثم أتبعه ستاً من شوال كان كصيام الدهر",
+        "hadithEn": "Abu Ayyub al-Ansari (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: Whoever fasts Ramadan then follows it with six days of Shawwal, it is as if he fasted the entire year.",
+        "hadithSourceAr": "رواه مسلم",
+        "hadithSourceEn": "Narrated by Muslim",
+        "benefitsAr": [
+            "أجر صيام الدهر كاملاً مع رمضان",
+            "إتمام النقص الذي قد يحصل في صيام رمضان",
+            "شكر الله على نعمة إتمام رمضان",
+            "دليل على قبول رمضان إذ وفّق لصيام شوال"
+        ],
+        "benefitsEn": [
+            "Reward of fasting the entire year combined with Ramadan",
+            "Compensating for any shortcomings during Ramadan",
+            "Gratitude to Allah for completing Ramadan",
+            "A sign of Ramadan's acceptance when blessed to fast Shawwal"
+        ],
+        "icon": "6.circle.fill"
+    },
+    {
+        "id": "day_of_arafah",
+        "nameAr": "يوم عرفة",
+        "nameEn": "Day of Arafah",
+        "descriptionAr": "صيام يوم عرفة (٩ ذو الحجة) لغير الحاج، وهو من أفضل أيام السنة",
+        "descriptionEn": "Fasting the Day of Arafah (9th Dhul Hijjah) for non-pilgrims, one of the best days of the year",
+        "hadithAr": "سُئل رسول الله ﷺ عن صيام يوم عرفة فقال: يُكفّر السنة الماضية والسنة القابلة",
+        "hadithEn": "The Messenger of Allah ﷺ was asked about fasting the Day of Arafah. He said: It expiates the sins of the previous year and the coming year.",
+        "hadithSourceAr": "رواه مسلم",
+        "hadithSourceEn": "Narrated by Muslim",
+        "benefitsAr": [
+            "تكفير ذنوب سنتين: الماضية والقابلة",
+            "من أعظم أيام الله تعالى",
+            "يوم أكمل الله فيه الدين",
+            "العتق من النار في هذا اليوم"
+        ],
+        "benefitsEn": [
+            "Expiation of two years of sins: the past and the coming",
+            "One of the greatest days in the sight of Allah",
+            "The day Allah perfected the religion",
+            "Freedom from the Hellfire on this day"
+        ],
+        "icon": "mountain.2.fill"
+    },
+    {
+        "id": "day_of_ashura",
+        "nameAr": "يوم عاشوراء",
+        "nameEn": "Day of Ashura",
+        "descriptionAr": "صيام العاشر من محرم، ويُستحب صيام التاسع معه، وهو اليوم الذي نجّى الله فيه موسى عليه السلام",
+        "descriptionEn": "Fasting the 10th of Muharram, recommended with the 9th. The day Allah saved Musa (Moses) peace be upon him",
+        "hadithAr": "سُئل رسول الله ﷺ عن صيام يوم عاشوراء فقال: أحتسب على الله أن يُكفّر السنة التي قبله",
+        "hadithEn": "The Messenger of Allah ﷺ was asked about fasting the Day of Ashura. He said: I hope that Allah will expiate the sins of the previous year.",
+        "hadithSourceAr": "رواه مسلم",
+        "hadithSourceEn": "Narrated by Muslim",
+        "benefitsAr": [
+            "تكفير ذنوب السنة الماضية",
+            "إحياء سنة النبي ﷺ",
+            "شكر الله على نجاة موسى عليه السلام",
+            "يُستحب صيام التاسع والعاشر معاً"
+        ],
+        "benefitsEn": [
+            "Expiation of the previous year's sins",
+            "Reviving the Sunnah of the Prophet ﷺ",
+            "Gratitude to Allah for saving Musa (peace be upon him)",
+            "Recommended to fast both the 9th and 10th together"
+        ],
+        "icon": "10.circle.fill"
+    },
+    {
+        "id": "first_ten_dhul_hijjah",
+        "nameAr": "العشر الأوائل من ذي الحجة",
+        "nameEn": "First 10 Days of Dhul Hijjah",
+        "descriptionAr": "صيام الأيام التسعة الأولى من شهر ذي الحجة (١-٩)، وهي من أفضل أيام السنة للعمل الصالح",
+        "descriptionEn": "Fasting the first nine days of Dhul Hijjah (1-9), among the best days of the year for good deeds",
+        "hadithAr": "عن ابن عباس رضي الله عنهما أن النبي ﷺ قال: ما من أيام العمل الصالح فيها أحب إلى الله من هذه الأيام - يعني أيام العشر",
+        "hadithEn": "Ibn Abbas (may Allah be pleased with them) reported that the Prophet ﷺ said: There are no days in which good deeds are more beloved to Allah than these days - meaning the ten days of Dhul Hijjah.",
+        "hadithSourceAr": "رواه البخاري",
+        "hadithSourceEn": "Narrated by Al-Bukhari",
+        "benefitsAr": [
+            "أفضل أيام الدنيا للعمل الصالح",
+            "الله أقسم بها في سورة الفجر",
+            "الأعمال فيها أحب إلى الله من الجهاد",
+            "فرصة عظيمة للتقرب إلى الله"
+        ],
+        "benefitsEn": [
+            "The best days of the year for good deeds",
+            "Allah swore by them in Surah Al-Fajr",
+            "Good deeds in them are more beloved to Allah than Jihad",
+            "A great opportunity to draw closer to Allah"
+        ],
+        "icon": "sun.max.fill"
+    },
+    {
+        "id": "shaban_fasting",
+        "nameAr": "صيام شعبان",
+        "nameEn": "Fasting in Sha'ban",
+        "descriptionAr": "الإكثار من الصيام في شهر شعبان تأسياً بالنبي ﷺ الذي كان يصوم أكثر شعبان",
+        "descriptionEn": "Increasing fasting during Sha'ban following the Prophet ﷺ who used to fast most of Sha'ban",
+        "hadithAr": "عن عائشة رضي الله عنها قالت: لم يكن النبي ﷺ يصوم شهراً أكثر من شعبان، فإنه كان يصوم شعبان كله",
+        "hadithEn": "Aisha (may Allah be pleased with her) said: The Prophet ﷺ did not fast in any month more than Sha'ban; he used to fast (almost) all of Sha'ban.",
+        "hadithSourceAr": "رواه البخاري ومسلم",
+        "hadithSourceEn": "Narrated by Al-Bukhari and Muslim",
+        "benefitsAr": [
+            "اتباع سنة النبي ﷺ في أكثر شهور صيامه",
+            "الأعمال تُرفع إلى الله في شعبان",
+            "التهيئة والاستعداد لشهر رمضان",
+            "شهر يغفل عنه الناس بين رجب ورمضان"
+        ],
+        "benefitsEn": [
+            "Following the Sunnah in the Prophet's most-fasted month",
+            "Deeds are raised to Allah during Sha'ban",
+            "Preparation and readiness for Ramadan",
+            "A month people neglect between Rajab and Ramadan"
+        ],
+        "icon": "cloud.sun.fill"
+    },
+    {
+        "id": "muharram_fasting",
+        "nameAr": "صيام المحرم",
+        "nameEn": "Fasting in Muharram",
+        "descriptionAr": "الإكثار من صيام شهر محرم، فهو أفضل الصيام بعد رمضان",
+        "descriptionEn": "Increasing fasting during Muharram, the best fasting after Ramadan",
+        "hadithAr": "عن أبي هريرة رضي الله عنه قال: قال رسول الله ﷺ: أفضل الصيام بعد رمضان شهر الله المحرم",
+        "hadithEn": "Abu Hurayrah (may Allah be pleased with him) said: The Messenger of Allah ﷺ said: The best fasting after Ramadan is the month of Allah, Muharram.",
+        "hadithSourceAr": "رواه مسلم",
+        "hadithSourceEn": "Narrated by Muslim",
+        "benefitsAr": [
+            "أفضل صيام التطوع بعد رمضان",
+            "شهر الله المحرم - أضافه الله إلى نفسه تشريفاً",
+            "من الأشهر الحرم التي عظّمها الله",
+            "فيه يوم عاشوراء العظيم"
+        ],
+        "benefitsEn": [
+            "The best voluntary fasting after Ramadan",
+            "The month of Allah, Muharram - honored by attribution to Him",
+            "One of the sacred months that Allah has honored",
+            "Contains the great Day of Ashura"
+        ],
+        "icon": "1.circle.fill"
+    },
+    {
+        "id": "dawud_fasting",
+        "nameAr": "صيام داود عليه السلام",
+        "nameEn": "Fasting of Prophet Dawud",
+        "descriptionAr": "صيام يوم وإفطار يوم بالتناوب، وهو أحب الصيام إلى الله تعالى",
+        "descriptionEn": "Alternating between fasting one day and not fasting the next, the most beloved fasting to Allah",
+        "hadithAr": "قال رسول الله ﷺ: أحب الصيام إلى الله صيام داود عليه السلام، كان يصوم يوماً ويفطر يوماً",
+        "hadithEn": "The Messenger of Allah ﷺ said: The most beloved fasting to Allah is the fasting of Dawud (David) peace be upon him; he used to fast one day and break his fast the next.",
+        "hadithSourceAr": "رواه البخاري ومسلم",
+        "hadithSourceEn": "Narrated by Al-Bukhari and Muslim",
+        "benefitsAr": [
+            "أحب الصيام إلى الله تعالى",
+            "توازن بين العبادة وحقوق النفس",
+            "تدريب على الانضباط والاستمرارية",
+            "أفضل صيام التطوع على الإطلاق"
+        ],
+        "benefitsEn": [
+            "The most beloved fasting to Allah the Almighty",
+            "Balance between worship and self-care",
+            "Training in discipline and consistency",
+            "The best voluntary fasting overall"
+        ],
+        "icon": "arrow.left.arrow.right"
+    },
+    {
+        "id": "qadaa",
+        "nameAr": "أيام القضاء",
+        "nameEn": "Makeup Days (Qadaa)",
+        "descriptionAr": "قضاء أيام رمضان التي أفطرتها المرأة بسبب الحيض أو النفاس، ويجب قضاؤها قبل رمضان التالي",
+        "descriptionEn": "Making up missed Ramadan days due to menstruation or postpartum bleeding, which must be completed before the next Ramadan",
+        "hadithAr": "عن عائشة رضي الله عنها قالت: كان يكون عليَّ الصوم من رمضان فما أستطيع أن أقضيه إلا في شعبان",
+        "hadithEn": "Aisha (may Allah be pleased with her) said: I used to owe fasting days from Ramadan and I could not make them up except in Sha'ban.",
+        "hadithSourceAr": "رواه البخاري ومسلم",
+        "hadithSourceEn": "Narrated by Al-Bukhari and Muslim",
+        "benefitsAr": [
+            "أداء الواجب وبراءة الذمة",
+            "التخلص من الدين قبل رمضان التالي",
+            "الجمع بين القضاء والتطوع في أجر مضاعف",
+            "راحة النفس باتمام الفريضة"
+        ],
+        "benefitsEn": [
+            "Fulfilling an obligation and clearing one's duty",
+            "Completing the debt before the next Ramadan",
+            "Combining makeup fasting with voluntary fasting for double reward",
+            "Peace of mind from completing the obligation"
+        ],
+        "icon": "arrow.counterclockwise.circle.fill"
+    }
+]

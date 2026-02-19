@@ -1,0 +1,505 @@
+{
+  "schemaVersion": "1.0",
+  "contentVersion": "1.0.0",
+  "events": [
+    {
+      "id": "islamic_new_year",
+      "nameAr": "رأس السنة الهجرية",
+      "nameEn": "Islamic New Year",
+      "descriptionAr": "بداية العام الهجري الجديد، وأول يوم من شهر المحرم",
+      "descriptionEn": "The beginning of the new Hijri year, the first day of Muharram",
+      "hijriMonth": 1,
+      "hijriDay": 1,
+      "hijriEndDay": null,
+      "iconName": "moon.stars.fill",
+      "colorHex": "#5E35B1",
+      "orderIndex": 1,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "رأس السنة الهجرية يصادف أول يوم من شهر المحرم، وهو من الأشهر الحرم التي عظّمها الله تعالى. وهو مناسبة للتأمل في هجرة النبي صلى الله عليه وسلم من مكة إلى المدينة، التي كانت نقطة تحول في تاريخ الإسلام.",
+          "contentEn": "The Islamic New Year falls on the first day of Muharram, one of the sacred months honored by Allah. It is an occasion to reflect on the Prophet's migration (Hijrah) from Makkah to Madinah, a turning point in Islamic history.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "أفضلُ الصِّيامِ بعدَ رمضانَ شهرُ اللهِ المُحَرَّمُ، وأفضلُ الصَّلاةِ بعدَ الفريضةِ صلاةُ اللَّيلِ",
+          "contentEn": "The best fasting after Ramadan is the month of Allah, Muharram, and the best prayer after the obligatory prayer is the night prayer.",
+          "sourceAr": "رواه مسلم",
+          "sourceEn": "Sahih Muslim",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "ashura",
+      "nameAr": "يوم عاشوراء",
+      "nameEn": "Day of Ashura",
+      "descriptionAr": "اليوم العاشر من شهر المحرم، يُستحب صيامه",
+      "descriptionEn": "The 10th of Muharram, fasting on this day is highly recommended",
+      "hijriMonth": 1,
+      "hijriDay": 10,
+      "hijriEndDay": null,
+      "iconName": "drop.fill",
+      "colorHex": "#1565C0",
+      "orderIndex": 2,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "يوم عاشوراء هو اليوم العاشر من شهر المحرم. صامه النبي صلى الله عليه وسلم وأمر بصيامه. وهو اليوم الذي نجّى الله فيه موسى عليه السلام وقومه من فرعون.",
+          "contentEn": "Ashura is the 10th day of Muharram. The Prophet (peace be upon him) fasted on this day and commanded others to fast. It is the day Allah saved Musa (Moses) and his people from Pharaoh.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "صِيامُ يومِ عاشوراءَ، أَحْتَسِبُ على اللهِ أنْ يُكَفِّرَ السَّنَةَ الَّتي قَبْلَهُ",
+          "contentEn": "Fasting the day of Ashura, I hope that Allah will accept it as expiation for the previous year.",
+          "sourceAr": "رواه مسلم",
+          "sourceEn": "Sahih Muslim",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "يُستحب صيام يوم عاشوراء ويوم قبله (التاسع) أو يوم بعده (الحادي عشر) مخالفةً لأهل الكتاب.",
+          "contentEn": "It is recommended to fast on Ashura and a day before it (the 9th) or a day after it (the 11th) to differ from the People of the Book.",
+          "sourceAr": "رواه مسلم",
+          "sourceEn": "Sahih Muslim",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "mawlid",
+      "nameAr": "المولد النبوي",
+      "nameEn": "Prophet's Birthday (Mawlid)",
+      "descriptionAr": "ذكرى مولد النبي محمد صلى الله عليه وسلم في الثاني عشر من ربيع الأول",
+      "descriptionEn": "Commemoration of the birth of Prophet Muhammad (PBUH) on the 12th of Rabi al-Awwal",
+      "hijriMonth": 3,
+      "hijriDay": 12,
+      "hijriEndDay": null,
+      "iconName": "star.fill",
+      "colorHex": "#2E7D32",
+      "orderIndex": 3,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "ولد النبي محمد صلى الله عليه وسلم في الثاني عشر من شهر ربيع الأول في عام الفيل. مناسبة للتعرف على سيرته العطرة والتأسي به صلى الله عليه وسلم.",
+          "contentEn": "Prophet Muhammad (peace be upon him) was born on the 12th of Rabi al-Awwal in the Year of the Elephant. An occasion to learn about his noble biography and follow his example.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "سُئِلَ عن صومِ يومِ الاثنينِ؟ فقال: ذاكَ يومٌ وُلِدتُ فيه، ويومٌ بُعِثتُ أو أُنزِلَ عليَّ فيه",
+          "contentEn": "He was asked about fasting on Mondays. He said: That is the day on which I was born, and the day on which I was sent (as a Prophet) or revelation was sent down to me.",
+          "sourceAr": "رواه مسلم",
+          "sourceEn": "Sahih Muslim",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "isra_miraj",
+      "nameAr": "الإسراء والمعراج",
+      "nameEn": "Isra and Mi'raj",
+      "descriptionAr": "ذكرى رحلة الإسراء والمعراج في السابع والعشرين من رجب",
+      "descriptionEn": "Commemoration of the Night Journey and Ascension on the 27th of Rajab",
+      "hijriMonth": 7,
+      "hijriDay": 27,
+      "hijriEndDay": null,
+      "iconName": "sparkles",
+      "colorHex": "#6A1B9A",
+      "orderIndex": 4,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "الإسراء والمعراج رحلة عظيمة أسرى الله فيها بنبيه محمد صلى الله عليه وسلم من المسجد الحرام إلى المسجد الأقصى، ثم عُرج به إلى السماوات العلا. وفيها فُرضت الصلوات الخمس.",
+          "contentEn": "The Night Journey (Isra) and Ascension (Mi'raj) is the miraculous journey in which Allah took Prophet Muhammad from Al-Masjid Al-Haram to Al-Masjid Al-Aqsa, then ascended to the heavens. The five daily prayers were prescribed during this journey.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "quran_verse",
+          "titleAr": "آية قرآنية",
+          "titleEn": "Quran Verse",
+          "contentAr": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+          "contentEn": "Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.",
+          "sourceAr": "سورة الإسراء - الآية 1",
+          "sourceEn": "Surah Al-Isra 17:1",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "mid_shaban",
+      "nameAr": "ليلة النصف من شعبان",
+      "nameEn": "Mid-Sha'ban",
+      "descriptionAr": "ليلة النصف من شعبان، ليلة يطّلع الله فيها على عباده فيغفر لهم",
+      "descriptionEn": "The night of the 15th of Sha'ban, a night in which Allah looks upon His servants and forgives them",
+      "hijriMonth": 8,
+      "hijriDay": 15,
+      "hijriEndDay": null,
+      "iconName": "moon.fill",
+      "colorHex": "#00838F",
+      "orderIndex": 5,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "ليلة النصف من شعبان يطّلع الله تعالى على خلقه فيغفر لجميع خلقه إلا لمشرك أو مشاحن. وشهر شعبان كان النبي صلى الله عليه وسلم يكثر فيه من الصيام.",
+          "contentEn": "On the night of mid-Sha'ban, Allah looks upon His creation and forgives all of them except for an idolater or one who harbors hatred. The Prophet (PBUH) used to fast frequently during Sha'ban.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "إنَّ اللهَ لَيطَّلِعُ في ليلةِ النصفِ من شعبانَ فيغفرُ لجميعِ خَلقِه إلَّا لمُشرِكٍ أو مُشاحنٍ",
+          "contentEn": "Allah looks upon His creation on the night of mid-Sha'ban and forgives all of His creation except for an idolater or one who harbors hatred.",
+          "sourceAr": "رواه ابن ماجه",
+          "sourceEn": "Ibn Majah",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "ramadan",
+      "nameAr": "شهر رمضان",
+      "nameEn": "Ramadan",
+      "descriptionAr": "شهر الصيام والقيام وتلاوة القرآن",
+      "descriptionEn": "The month of fasting, night prayers, and Quran recitation",
+      "hijriMonth": 9,
+      "hijriDay": 1,
+      "hijriEndDay": 30,
+      "iconName": "moon.stars.fill",
+      "colorHex": "#C62828",
+      "orderIndex": 6,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "شهر رمضان هو الشهر التاسع في التقويم الهجري، فيه أُنزل القرآن الكريم. يصوم المسلمون من الفجر حتى المغرب، ويكثرون من العبادة والصلاة وقراءة القرآن والصدقة.",
+          "contentEn": "Ramadan is the ninth month of the Islamic calendar, in which the Quran was revealed. Muslims fast from dawn to sunset and increase in worship, prayer, Quran recitation, and charity.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "quran_verse",
+          "titleAr": "آية قرآنية",
+          "titleEn": "Quran Verse",
+          "contentAr": "شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ",
+          "contentEn": "The month of Ramadan in which was revealed the Quran, a guidance for the people and clear proofs of guidance and criterion.",
+          "sourceAr": "سورة البقرة - الآية 185",
+          "sourceEn": "Surah Al-Baqarah 2:185",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "مَن صامَ رمضانَ إيمانًا واحتِسابًا غُفِرَ لَهُ ما تقدَّمَ من ذنبِهِ",
+          "contentEn": "Whoever fasts Ramadan out of faith and seeking reward, his previous sins will be forgiven.",
+          "sourceAr": "متفق عليه",
+          "sourceEn": "Agreed Upon (Bukhari & Muslim)",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "الصيام، قيام الليل، تلاوة القرآن، الصدقة، الدعاء، الاعتكاف في العشر الأواخر، وتحري ليلة القدر.",
+          "contentEn": "Fasting, night prayers (Taraweeh), Quran recitation, charity, supplication, I'tikaf in the last ten nights, and seeking Laylat al-Qadr.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "laylat_al_qadr",
+      "nameAr": "ليلة القدر",
+      "nameEn": "Laylat al-Qadr",
+      "descriptionAr": "ليلة خير من ألف شهر، في العشر الأواخر من رمضان",
+      "descriptionEn": "The Night of Decree, better than a thousand months, in the last ten nights of Ramadan",
+      "hijriMonth": 9,
+      "hijriDay": 27,
+      "hijriEndDay": null,
+      "iconName": "sparkle",
+      "colorHex": "#F9A825",
+      "orderIndex": 7,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "ليلة القدر هي أفضل ليالي السنة، خير من ألف شهر. أنزل الله فيها القرآن الكريم. تُلتمس في الليالي الوتر من العشر الأواخر من رمضان.",
+          "contentEn": "Laylat al-Qadr is the best night of the year, better than a thousand months. The Quran was revealed on this night. It is sought in the odd nights of the last ten days of Ramadan.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "quran_verse",
+          "titleAr": "آية قرآنية",
+          "titleEn": "Quran Verse",
+          "contentAr": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ﴿٣﴾",
+          "contentEn": "Indeed, We sent it down during the Night of Decree. And what can make you know what the Night of Decree is? The Night of Decree is better than a thousand months.",
+          "sourceAr": "سورة القدر - الآيات 1-3",
+          "sourceEn": "Surah Al-Qadr 97:1-3",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "مَن قامَ ليلةَ القدرِ إيمانًا واحتِسابًا غُفِرَ لَهُ ما تقدَّمَ من ذنبِهِ",
+          "contentEn": "Whoever stands (in prayer) on the Night of Decree out of faith and seeking reward, his previous sins will be forgiven.",
+          "sourceAr": "متفق عليه",
+          "sourceEn": "Agreed Upon (Bukhari & Muslim)",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "قيام الليل، الدعاء بـ: اللهم إنك عفوٌ تحب العفو فاعفُ عني، الذكر، الاستغفار، والصدقة.",
+          "contentEn": "Night prayer, supplication: 'O Allah, You are the Pardoner, You love pardoning, so pardon me', remembrance of Allah, seeking forgiveness, and charity.",
+          "sourceAr": "رواه الترمذي",
+          "sourceEn": "Tirmidhi",
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "eid_al_fitr",
+      "nameAr": "عيد الفطر",
+      "nameEn": "Eid al-Fitr",
+      "descriptionAr": "عيد الفطر المبارك، أول أيام شهر شوال",
+      "descriptionEn": "The blessed Eid al-Fitr, the first days of Shawwal",
+      "hijriMonth": 10,
+      "hijriDay": 1,
+      "hijriEndDay": 3,
+      "iconName": "gift.fill",
+      "colorHex": "#D81B60",
+      "orderIndex": 8,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "عيد الفطر يأتي بعد إتمام صيام شهر رمضان المبارك. يبدأ بصلاة العيد، ويتبادل المسلمون التهاني والزيارات. تجب فيه زكاة الفطر قبل صلاة العيد.",
+          "contentEn": "Eid al-Fitr comes after completing the fast of Ramadan. It begins with the Eid prayer, and Muslims exchange greetings and visits. Zakat al-Fitr must be given before the Eid prayer.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "لِلصَّائِمِ فَرْحَتانِ: فَرْحَةٌ عِندَ فِطْرِهِ، وفَرْحَةٌ عِندَ لِقاءِ رَبِّهِ",
+          "contentEn": "The fasting person has two joys: joy when breaking his fast, and joy when meeting his Lord.",
+          "sourceAr": "متفق عليه",
+          "sourceEn": "Agreed Upon (Bukhari & Muslim)",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "صلاة العيد، التكبير، زكاة الفطر، صلة الأرحام، إظهار الفرح والسرور، والإحسان إلى الفقراء.",
+          "contentEn": "Eid prayer, Takbeer, Zakat al-Fitr, maintaining family ties, showing joy and happiness, and being generous to the poor.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "day_of_arafah",
+      "nameAr": "يوم عرفة",
+      "nameEn": "Day of Arafah",
+      "descriptionAr": "التاسع من ذي الحجة، أفضل يوم طلعت عليه الشمس",
+      "descriptionEn": "The 9th of Dhul Hijjah, the best day on which the sun has risen",
+      "hijriMonth": 12,
+      "hijriDay": 9,
+      "hijriEndDay": null,
+      "iconName": "sun.max.fill",
+      "colorHex": "#E65100",
+      "orderIndex": 9,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "يوم عرفة هو التاسع من ذي الحجة، وهو ركن الحج الأعظم. يستحب لغير الحاج صيامه. هو أفضل يوم طلعت عليه الشمس، يوم يُكثر الله فيه من العتق من النار.",
+          "contentEn": "The Day of Arafah is the 9th of Dhul Hijjah, the greatest pillar of Hajj. Non-pilgrims are encouraged to fast on this day. It is the best day on which the sun has risen, a day when Allah frees many from the Hellfire.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "صِيامُ يومِ عَرَفَةَ أَحْتَسِبُ على اللهِ أنْ يُكَفِّرَ السَّنَةَ الَّتي قَبْلَهُ والسَّنَةَ الَّتي بَعْدَهُ",
+          "contentEn": "Fasting on the Day of Arafah, I hope from Allah that it expiates the sins of the year before and the year after.",
+          "sourceAr": "رواه مسلم",
+          "sourceEn": "Sahih Muslim",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "خيرُ الدُّعاءِ دعاءُ يومِ عَرَفَةَ، وخيرُ ما قُلتُ أنا والنَّبيُّونَ من قبلي: لا إلهَ إلَّا اللهُ وحدَهُ لا شريكَ لَهُ، لَهُ الملكُ ولَهُ الحمدُ وهوَ على كلِّ شيءٍ قديرٌ",
+          "contentEn": "The best supplication is that of the Day of Arafah, and the best thing that I and the Prophets before me said is: There is no god but Allah alone, with no partner, His is the dominion and His is the praise, and He has power over all things.",
+          "sourceAr": "رواه الترمذي",
+          "sourceEn": "Tirmidhi",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "الصيام لغير الحاج، الإكثار من الدعاء، التكبير والتهليل، والصدقة.",
+          "contentEn": "Fasting (for non-pilgrims), abundant supplication, Takbeer and Tahleel, and charity.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    },
+    {
+      "id": "eid_al_adha",
+      "nameAr": "عيد الأضحى",
+      "nameEn": "Eid al-Adha",
+      "descriptionAr": "عيد الأضحى المبارك، العاشر من ذي الحجة وأيام التشريق",
+      "descriptionEn": "The blessed Eid al-Adha, the 10th of Dhul Hijjah and the days of Tashreeq",
+      "hijriMonth": 12,
+      "hijriDay": 10,
+      "hijriEndDay": 13,
+      "iconName": "hands.sparkles.fill",
+      "colorHex": "#AD1457",
+      "orderIndex": 10,
+      "countries": null,
+      "sections": [
+        {
+          "type": "description",
+          "titleAr": "نبذة",
+          "titleEn": "About",
+          "contentAr": "عيد الأضحى يبدأ في العاشر من ذي الحجة ويستمر ثلاثة أيام (أيام التشريق). يُحيي ذكرى استجابة إبراهيم عليه السلام لأمر الله بذبح ابنه إسماعيل. تُؤدى فيه الأضحية وصلاة العيد.",
+          "contentEn": "Eid al-Adha begins on the 10th of Dhul Hijjah and lasts three days (Days of Tashreeq). It commemorates Ibrahim's willingness to sacrifice his son Ismail in obedience to Allah. The Udhiyah (sacrifice) and Eid prayer are performed.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "hadith",
+          "titleAr": "حديث",
+          "titleEn": "Hadith",
+          "contentAr": "ما عَمِلَ آدميٌّ من عَمَلٍ يومَ النَّحرِ أحبَّ إلى اللهِ من إهراقِ الدَّمِ، إنَّها لتأتي يومَ القيامةِ بقُرونِها وأشعارِها وأظلافِها، وإنَّ الدَّمَ لَيَقَعُ من اللهِ بمكانٍ قبلَ أن يقعَ من الأرضِ، فَطِيبُوا بها نَفْسًا",
+          "contentEn": "There is no deed done by the son of Adam on the Day of Sacrifice dearer to Allah than the shedding of blood. It will come on the Day of Judgment with its horns, hair, and hooves. The blood reaches a place with Allah before it falls on the ground, so be content with it.",
+          "sourceAr": "رواه الترمذي",
+          "sourceEn": "Tirmidhi",
+          "translations": null,
+          "contentTranslations": null
+        },
+        {
+          "type": "deed",
+          "titleAr": "الأعمال المستحبة",
+          "titleEn": "Recommended Deeds",
+          "contentAr": "صلاة العيد، الأضحية، التكبير المقيّد بعد الصلوات، صلة الأرحام، وإظهار الفرح. ولا يجوز صيام يوم العيد وأيام التشريق.",
+          "contentEn": "Eid prayer, Udhiyah (sacrifice), restricted Takbeer after prayers, maintaining family ties, and showing joy. Fasting on Eid day and the days of Tashreeq is not permissible.",
+          "sourceAr": null,
+          "sourceEn": null,
+          "translations": null,
+          "contentTranslations": null
+        }
+      ],
+      "translations": null,
+      "descriptionTranslations": null
+    }
+  ]
+}

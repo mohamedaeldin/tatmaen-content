@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titleAr": "النية والبسملة",
+    "titleEn": "Intention & Bismillah",
+    "descriptionAr": "انوِ الوضوء في قلبك وقل: بسم الله",
+    "descriptionEn": "Make the intention in your heart and say: Bismillah",
+    "icon": "heart.fill"
+  },
+  {
+    "id": 2,
+    "titleAr": "غسل الكفين",
+    "titleEn": "Wash Hands",
+    "descriptionAr": "اغسل كفيك ثلاث مرات",
+    "descriptionEn": "Wash both hands up to the wrists three times",
+    "icon": "hands.sparkles.fill"
+  },
+  {
+    "id": 3,
+    "titleAr": "المضمضة",
+    "titleEn": "Rinse Mouth",
+    "descriptionAr": "أدخل الماء في فمك ومضمض ثلاث مرات",
+    "descriptionEn": "Take water into your mouth, swirl it around, and spit it out three times",
+    "icon": "mouth.fill"
+  },
+  {
+    "id": 4,
+    "titleAr": "الاستنشاق والاستنثار",
+    "titleEn": "Rinse Nose",
+    "descriptionAr": "استنشق الماء في أنفك واستنثره ثلاث مرات",
+    "descriptionEn": "Sniff water into your nose and blow it out three times",
+    "icon": "nose.fill"
+  },
+  {
+    "id": 5,
+    "titleAr": "غسل الوجه",
+    "titleEn": "Wash Face",
+    "descriptionAr": "اغسل وجهك من منبت الشعر إلى أسفل الذقن ومن الأذن إلى الأذن ثلاث مرات",
+    "descriptionEn": "Wash the entire face from the hairline to the chin and ear to ear, three times",
+    "icon": "face.smiling"
+  },
+  {
+    "id": 6,
+    "titleAr": "غسل اليدين إلى المرفقين",
+    "titleEn": "Wash Arms",
+    "descriptionAr": "اغسل يدك اليمنى من أطراف الأصابع إلى المرفق ثلاث مرات، ثم اليسرى كذلك",
+    "descriptionEn": "Wash the right arm from fingertips to the elbow three times, then the left arm likewise",
+    "icon": "figure.arms.open"
+  },
+  {
+    "id": 7,
+    "titleAr": "مسح الرأس",
+    "titleEn": "Wipe Head",
+    "descriptionAr": "امسح رأسك بيديك المبللتين من مقدمة الرأس إلى القفا ثم ارجع مرة واحدة",
+    "descriptionEn": "Wipe over the head with wet hands from front to back and back to front, once",
+    "icon": "brain.head.profile"
+  },
+  {
+    "id": 8,
+    "titleAr": "مسح الأذنين",
+    "titleEn": "Wipe Ears",
+    "descriptionAr": "امسح أذنيك بأصابعك المبللة: السبابة داخل الأذن والإبهام خلفها",
+    "descriptionEn": "Wipe the inner ears with your index fingers and the outer ears with your thumbs",
+    "icon": "ear.fill"
+  },
+  {
+    "id": 9,
+    "titleAr": "غسل القدمين",
+    "titleEn": "Wash Feet",
+    "descriptionAr": "اغسل قدمك اليمنى إلى الكعبين ثلاث مرات مع تخليل الأصابع، ثم اليسرى كذلك",
+    "descriptionEn": "Wash the right foot up to the ankle three times, including between the toes, then the left foot",
+    "icon": "figure.walk"
+  },
+  {
+    "id": 10,
+    "titleAr": "الدعاء بعد الوضوء",
+    "titleEn": "Supplication After Wudu",
+    "descriptionAr": "أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدًا عبده ورسوله، اللهم اجعلني من التوابين واجعلني من المتطهرين",
+    "descriptionEn": "I bear witness that none has the right to be worshipped but Allah alone, and I bear witness that Muhammad is His slave and Messenger. O Allah, make me among those who repent and make me among those who purify themselves.",
+    "icon": "hands.and.sparkles.fill"
+  }
+]

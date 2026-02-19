@@ -1,0 +1,58 @@
+[
+  {
+    "id": "prayer_hadith_1",
+    "textAr": "إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ العَبْدُ يَوْمَ القِيَامَةِ مِنْ عَمَلِهِ صَلَاتُهُ، فَإِنْ صَلُحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ، وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ",
+    "textEn": "The first thing a person will be held accountable for on the Day of Judgment is their prayer. If it is sound, they will have succeeded. If it is lacking, they will have failed and lost.",
+    "sourceAr": "رواه الترمذي",
+    "sourceEn": "Narrated by At-Tirmidhi"
+  },
+  {
+    "id": "prayer_hadith_2",
+    "textAr": "أَرَأَيْتُمْ لَوْ أَنَّ نَهْرًا بِبَابِ أَحَدِكُمْ يَغْتَسِلُ مِنْهُ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ، هَلْ يَبْقَى مِنْ دَرَنِهِ شَيْءٌ؟ قَالُوا: لَا. قَالَ: فَذَلِكَ مَثَلُ الصَّلَوَاتِ الخَمْسِ يَمْحُو اللَّهُ بِهِنَّ الخَطَايَا",
+    "textEn": "If there was a river at the door of one of you and he bathed in it five times a day, would there be any dirt left on him? They said: No. He said: That is the likeness of the five daily prayers; Allah erases sins by them.",
+    "sourceAr": "متفق عليه",
+    "sourceEn": "Agreed upon (Bukhari & Muslim)"
+  },
+  {
+    "id": "prayer_hadith_3",
+    "textAr": "بَيْنَ الرَّجُلِ وَبَيْنَ الشِّرْكِ وَالكُفْرِ تَرْكُ الصَّلَاةِ",
+    "textEn": "Between a person and disbelief and polytheism is the abandonment of prayer.",
+    "sourceAr": "رواه مسلم",
+    "sourceEn": "Narrated by Muslim"
+  },
+  {
+    "id": "prayer_hadith_4",
+    "textAr": "مَنْ حَافَظَ عَلَى الصَّلَوَاتِ الخَمْسِ رُكُوعَهُنَّ وَسُجُودَهُنَّ وَمَوَاقِيتَهُنَّ وَعَلِمَ أَنَّهُنَّ حَقٌّ مِنْ عِنْدِ اللَّهِ دَخَلَ الجَنَّةَ",
+    "textEn": "Whoever maintains the five prayers — their bowing, their prostration, and their times — knowing that they are a right from Allah, will enter Paradise.",
+    "sourceAr": "رواه أحمد وابن حبان",
+    "sourceEn": "Narrated by Ahmad and Ibn Hibban"
+  },
+  {
+    "id": "prayer_hadith_5",
+    "textAr": "الصَّلَوَاتُ الخَمْسُ وَالجُمُعَةُ إِلَى الجُمُعَةِ كَفَّارَاتٌ لِمَا بَيْنَهُنَّ مَا لَمْ تُغْشَ الكَبَائِرُ",
+    "textEn": "The five daily prayers and Jumu'ah to Jumu'ah are expiation for the sins committed between them, as long as major sins are avoided.",
+    "sourceAr": "رواه مسلم",
+    "sourceEn": "Narrated by Muslim"
+  },
+  {
+    "id": "prayer_hadith_6",
+    "textAr": "مَنْ صَلَّى البَرْدَيْنِ دَخَلَ الجَنَّةَ",
+    "textEn": "Whoever prays the two cool prayers (Fajr and Asr) will enter Paradise.",
+    "sourceAr": "متفق عليه",
+    "sourceEn": "Agreed upon (Bukhari & Muslim)"
+  },
+  {
+    "id": "prayer_hadith_7",
+    "textAr": "مَنْ تَوَضَّأَ فَأَحْسَنَ الوُضُوءَ ثُمَّ صَلَّى رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+    "textEn": "Whoever performs wudu well, then prays two rak'ahs without being distracted in them, will be forgiven all their past sins.",
+    "sourceAr": "رواه البخاري",
+    "sourceEn": "Narrated by Al-Bukhari"
+  },
+  {
+    "id": "prayer_hadith_8",
+    "textAr": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الصَّفِّ الأَوَّلِ",
+    "textEn": "Indeed, Allah and His angels send blessings upon the first row.",
+    "sourceAr": "رواه أحمد وابن ماجه",
+    "sourceEn": "Narrated by Ahmad and Ibn Majah"
+  }
+]
