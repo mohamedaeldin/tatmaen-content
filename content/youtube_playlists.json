@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.3.1",
-  "lastUpdated": "2026-02-18T00:00:00Z",
+  "contentVersion": "1.4.0",
+  "lastUpdated": "2026-02-20T00:00:00Z",
   "items": [
     {
       "id": "amr_khaled",
@@ -1152,7 +1152,7 @@
         }
       ],
       "enabled": true,
-      "sortOrder": 1
+      "sortOrder": 9
     },
     {
       "id": "mustafa_hosny",
@@ -2785,6 +2785,25 @@
       ],
       "enabled": true,
       "sortOrder": 7
+    },
+    {
+      "id": "dawlat_al_tilawa",
+      "nameAr": "برنامج دولة التلاوة",
+      "nameEn": "Dawlat Al-Tilawa",
+      "imageAsset": "owner_dawlat_al_tilawa",
+      "imageURL": "https://yt3.googleusercontent.com/ytc/AIdro_kRtLHR964vdamDcN48J82LI3DkGfapbLha_99qT6YZWOmzGL3J8gT7dn-JfuAYqgXzOcU=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        {
+          "playlistId": "PLzE-b-Ue0X-zdpWtSExBzzOItQ6STlAIu",
+          "firstVideoId": "RAropPbIfC4"
+        },
+        {
+          "playlistId": "PLzE-b-Ue0X-w6sHUVOM_Up16KRDDrfCkV",
+          "firstVideoId": "UdanUvk-ui0"
+        }
+      ],
+      "enabled": true,
+      "sortOrder": 8
     }
   ]
 }
