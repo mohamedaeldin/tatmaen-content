@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.3.2",
-  "lastUpdated": "2026-02-18T00:00:00Z",
+  "contentVersion": "1.4.0",
+  "lastUpdated": "2026-02-21T00:00:00Z",
   "items": [
     {
       "id": "amr_khaled",
@@ -60,6 +60,19 @@
       ],
       "enabled": true,
       "sortOrder": 2
+    },
+    {
+      "id": "deya_elayyan",
+      "nameAr": "ضياء عليان",
+      "nameEn": "Deya Elayyan",
+      "imageAsset": "owner_deya_elayyan",
+      "imageURL": "https://yt3.googleusercontent.com/cvHDnSyXpShiT_ZT02vIx9OMbAcFLGkbhI-0e3Ldwbx47OgPtRR-cQBC1k8EnJYdtcXYVZloCQ=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PLhKrJU_9DBveDxTHmTI850V0Hy6qLX-RQ", "firstVideoId": "3MHU8Zjct4I" },
+        { "playlistId": "PLhKrJU_9DBvevKwKW9fMOdrwHsgdtjVd0", "firstVideoId": "QZTwVIZezpk" }
+      ],
+      "enabled": true,
+      "sortOrder": 3
     }
   ]
 }

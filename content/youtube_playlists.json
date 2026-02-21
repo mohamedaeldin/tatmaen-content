@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.6.0",
-  "lastUpdated": "2026-02-20T00:00:00Z",
+  "contentVersion": "1.7.0",
+  "lastUpdated": "2026-02-21T00:00:00Z",
   "items": [
     {
       "id": "amr_khaled",
@@ -2899,6 +2899,89 @@
       ],
       "enabled": true,
       "sortOrder": 10
+    },
+    {
+      "id": "gaber_baghdadi",
+      "nameAr": "الشيخ جابر بغدادي",
+      "nameEn": "Dr. Gaber Baghdadi",
+      "imageAsset": "owner_gaber_baghdadi",
+      "imageURL": "https://yt3.googleusercontent.com/62eaIMykln_SaIcF9OFdMoD44BiFBtv1WrAQZgrC4K9Y-_e-aLyngjrNb93qJC_DtTKJ4J9LCQ=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PLZSZ5bcO3IbLtBv_9LsIoJ2kumJ3TGxpr", "firstVideoId": "61qkRLbchVE" },
+        { "playlistId": "PLZSZ5bcO3IbL2Y5MhXQtZncfs4z2MXC7e", "firstVideoId": "vAId2LxUZN4" },
+        { "playlistId": "PLZSZ5bcO3IbItTI-Objr4N91KhF1OKEj6", "firstVideoId": "k43MYikTPDI" },
+        { "playlistId": "PLZSZ5bcO3IbI6OhuZqH33CAYJ8UwBPK67", "firstVideoId": "bq9fPXVDtMI" },
+        { "playlistId": "PLZSZ5bcO3IbJnqSp7iAB2n5gBKKdKQDu6", "firstVideoId": "ssoBKVGX7Yg" },
+        { "playlistId": "PLZSZ5bcO3IbKFRHyPt83pg0Ja_mcEGkTx", "firstVideoId": "jKyWQ5MnbOQ" },
+        { "playlistId": "PLZSZ5bcO3IbJekQ1-UI1OXxXkAG-MJYTV", "firstVideoId": "ZoMHRlikMjE" },
+        { "playlistId": "PLZSZ5bcO3IbK5F1UttqXagH7M6fbJZMNg", "firstVideoId": "TXBnFFf3his" },
+        { "playlistId": "PLZSZ5bcO3IbKdMmaaivPBmAM656VX2pEz", "firstVideoId": "5cmFr2uLRG4" },
+        { "playlistId": "PLZSZ5bcO3IbJZTF4BsjtgK9g4T_xAkXoj", "firstVideoId": "3YOuSKfeitc" },
+        { "playlistId": "PLZSZ5bcO3IbL9FmtHA7Efqio8PnyUIx90", "firstVideoId": "LQRx-3Tg9uE" },
+        { "playlistId": "PLZSZ5bcO3IbJX1A3jXA57NjsvQ-LB8R31", "firstVideoId": "NLf3KpqfeVM" },
+        { "playlistId": "PLZSZ5bcO3IbITUEDjU8bY-c5_KbXl5nrN", "firstVideoId": "u-ziYLslV9o" },
+        { "playlistId": "PLZSZ5bcO3IbL48bWyA-6zD2xt5l9Rmj4X", "firstVideoId": "eySsVdtRNVw" },
+        { "playlistId": "PLZSZ5bcO3IbK8-EtElPzed-0Udxb-cYW7", "firstVideoId": "uZ9RjLu-VdE" },
+        { "playlistId": "PLZSZ5bcO3IbIKQlqE2kC7gfHMmS-uAM0x", "firstVideoId": "QpdzibnhHpE" },
+        { "playlistId": "PLZSZ5bcO3IbIbxJNYa1QWHwN66Snj-VSr", "firstVideoId": "gQSDILPKaWU" },
+        { "playlistId": "PLZSZ5bcO3IbIVq0EnLavUwAHuuLt9qRgp", "firstVideoId": "6WaQur97iwc" },
+        { "playlistId": "PLZSZ5bcO3IbJMtVdaESj7dDtGbyh4n-Xp", "firstVideoId": "l7CBMq6Mz9k" },
+        { "playlistId": "PLZSZ5bcO3IbL2o7-ZJ9itiYPfwFtjqYvW", "firstVideoId": "THb2QKhTkAU" },
+        { "playlistId": "PLZSZ5bcO3IbIILC_tKBCXeaXuvYJMdmuj", "firstVideoId": "BKWwD4fLCU8" },
+        { "playlistId": "PLZSZ5bcO3IbKn70ck8wiyNskIree6GI80", "firstVideoId": "G8cZe_YWFLg" },
+        { "playlistId": "PLZSZ5bcO3IbKH_t_vhkUuiy_vPn908HkP", "firstVideoId": "dBiHinEVPq0" },
+        { "playlistId": "PLZSZ5bcO3IbIzmzMfdGUiwp7dHvBM8oGI", "firstVideoId": "rbjgj39BiJ0" },
+        { "playlistId": "PLZSZ5bcO3IbLyYpSmioN_vPA8jHDIwiAp", "firstVideoId": "XBUG-Om5n7c" },
+        { "playlistId": "PLZSZ5bcO3IbKq-5DXap6wIlXuI9NA5oKp", "firstVideoId": "snVd7UTQSVQ" },
+        { "playlistId": "PLZSZ5bcO3IbJVZYqSbXO3MtMGB82eOZx5", "firstVideoId": "OzPou_GpexA" },
+        { "playlistId": "PLZSZ5bcO3IbIMhn3P2Cxln52SVr6yDuZ_", "firstVideoId": "s_BSsAU1_oU" },
+        { "playlistId": "PLZSZ5bcO3IbJMWA1BV8PVrFuRC46ZMlkq", "firstVideoId": "QudGsRxaN44" },
+        { "playlistId": "PLZSZ5bcO3IbIHnjhMyCOjuNOmqbMcnZeI", "firstVideoId": "nUnVtUGh4CM" },
+        { "playlistId": "PLZSZ5bcO3IbIk8PYHAPtZEeRG4AnjyC3a", "firstVideoId": "uwIoZYdhTtA" },
+        { "playlistId": "PLZSZ5bcO3IbKBUqAugiVYAVwVzL6Tbqk7", "firstVideoId": "6nKmr3Q_JEM" },
+        { "playlistId": "PLZSZ5bcO3IbIHET-uPj-EVjYc_1fsT5ZK", "firstVideoId": "rFSCER-k8xM" },
+        { "playlistId": "PLZSZ5bcO3IbK8l6QSoTeZYRuHDDrZ3Kiw", "firstVideoId": "soEinBZ7OPU" },
+        { "playlistId": "PLZSZ5bcO3IbImgJF5VD0l7Z4S5b1A0SUm", "firstVideoId": "VvR8PhUaXeg" },
+        { "playlistId": "PLZSZ5bcO3IbIgKWPGFWCqJHKChjPtC-iy", "firstVideoId": "0qkv11LuiCc" },
+        { "playlistId": "PLZSZ5bcO3IbINl1I93LbmB3KVJPsXeenp", "firstVideoId": "Kftxe6OP4vw" },
+        { "playlistId": "PLZSZ5bcO3IbJy9XZv2Ny7w29BLpvwwRKj", "firstVideoId": "gI6ewpZqI-M" },
+        { "playlistId": "PLZSZ5bcO3IbI1CqwCNdHxXOOiqmiJkejn", "firstVideoId": "ckkNA4X6SzE" },
+        { "playlistId": "PLZSZ5bcO3IbKvUm4lxz6F_sLU_46v3o5a", "firstVideoId": "v7-S_QtrVLQ" },
+        { "playlistId": "PLZSZ5bcO3IbICr27xbSjN56jdSbbpjeG4", "firstVideoId": "ar6kb8qWasU" },
+        { "playlistId": "PLZSZ5bcO3IbJAFZOb45qIMNp0v3hRqq7K", "firstVideoId": "4vBhMLOUGSk" },
+        { "playlistId": "PLZSZ5bcO3IbKrQYgNpDy9u2I3o85aoWSQ", "firstVideoId": "CmsB9Weqyko" }
+      ],
+      "enabled": true,
+      "sortOrder": 11
+    },
+    {
+      "id": "alaa_jaber",
+      "nameAr": "علاء جابر",
+      "nameEn": "Alaa Jaber",
+      "imageAsset": "owner_alaa_jaber",
+      "imageURL": "https://yt3.googleusercontent.com/mZFal_6lIH2Mekqk7DIhI1k8ABzFmhd8IZPUke-kIJGYqzuu35h3I3TLPpTDNNThfynV5YH0aA=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PLvhfjrw7ibcwpJsDDET-9QfYlP3OYP_Eq", "firstVideoId": "27cHKIlR31g" },
+        { "playlistId": "PLvhfjrw7ibcw4Spq2nTy4Rg1HKEMxYM1F", "firstVideoId": "FgniShrktD8" },
+        { "playlistId": "PLvhfjrw7ibcwADimT_NsW6d1Eo3NMqmJn", "firstVideoId": "2x0cxGqN45c" },
+        { "playlistId": "PLvhfjrw7ibcyL_e02m928oXjWjhX2SlUn", "firstVideoId": "IccW4Ni6qUc" },
+        { "playlistId": "PLvhfjrw7ibcxyg2K91BxKyOj6tkxKDbKs", "firstVideoId": "iUu4j4K8Ago" }
+      ],
+      "enabled": true,
+      "sortOrder": 12
+    },
+    {
+      "id": "ahmad_alsabouni",
+      "nameAr": "أحمد الصابوني",
+      "nameEn": "Ahmad Al-Sabouni",
+      "imageAsset": "owner_ahmad_alsabouni",
+      "imageURL": "https://yt3.googleusercontent.com/38Qz0qpoYIVuZiaor9-JwbrtHzRESMh7yj_YYTfhHxo2znU5SOSVbnTq4mLdEWDktki84yxXgLg=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PL9fFy9VHEfBE05JOgqIIHlw-1W5pFhTHi", "firstVideoId": "lQASrv6r9Vs" },
+        { "playlistId": "PL9fFy9VHEfBH5r6iARhZHBmw-qEYjVgPd", "firstVideoId": "A5TDITdlzdo" }
+      ],
+      "enabled": true,
+      "sortOrder": 13
     }
   ]
 }
