@@ -3754,33 +3754,6 @@
       "sortOrder": 10
     },
     {
-      "id": "alghafri",
-      "nameAr": "الغافري",
-      "nameEn": "AlGhafri",
-      "imageAsset": "owner_alghafri",
-      "imageURL": "https://yt3.ggpht.com/lx7AH0ki6wYatYQscEwg_uJYq4kZ-_SVAcF-eN-iaKQTknNlRbbCMeGE_85MZ3uHG3de3F-btw=s800-c-k-c0x00ffffff-no-rj",
-      "playlists": [
-        {
-          "playlistId": "PLp0HPxdzjjMhcFyOYQ6dvn7fkxiFnuQCg",
-          "firstVideoId": "5qzKaozM8ks"
-        },
-        {
-          "playlistId": "PLp0HPxdzjjMi6FER3Nv98cDQ24xlquShA",
-          "firstVideoId": "KYay8FXnesU"
-        },
-        {
-          "playlistId": "PLp0HPxdzjjMjyWiheXGdYk1DCov3TMabe",
-          "firstVideoId": "xsHgC9nV25w"
-        },
-        {
-          "playlistId": "PLp0HPxdzjjMhRh7_sq0vWODfwmnEmk-sN",
-          "firstVideoId": "bpED-MOzVXk"
-        }
-      ],
-      "enabled": true,
-      "sortOrder": 4
-    },
-    {
       "id": "maktba_studio",
       "nameAr": "مكتبة استديو",
       "nameEn": "Maktba Studio",
