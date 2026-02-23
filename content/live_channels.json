@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "2.0.0",
-  "lastUpdated": "2026-02-21T00:00:00Z",
+  "contentVersion": "2.1.0",
+  "lastUpdated": "2026-02-23T00:00:00Z",
   "items": [
     {
       "id": "makkah_live",
@@ -177,7 +177,7 @@
       },
       "isLive": true,
       "isAudioOnly": true,
-      "enabled": true,
+      "enabled": false,
       "sortOrder": 5
     },
     {
@@ -210,7 +210,7 @@
       },
       "isLive": true,
       "isAudioOnly": false,
-      "enabled": true,
+      "enabled": false,
       "sortOrder": 6
     },
     {
@@ -243,7 +243,7 @@
       },
       "isLive": true,
       "isAudioOnly": false,
-      "enabled": true,
+      "enabled": false,
       "sortOrder": 7
     },
     {
