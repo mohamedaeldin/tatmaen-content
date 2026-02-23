@@ -202,33 +202,6 @@
       "sortOrder": 6
     },
     {
-      "id": "iqraa_quran",
-      "nameKey": "live_iqraa_quran",
-      "descriptionKey": "live_iqraa_quran_desc",
-      "countryKey": "country_saudi_arabia",
-      "localizedNames": {
-        "ar": "قناة إقرأ",
-        "en": "Iqraa TV"
-      },
-      "localizedDescriptions": {
-        "ar": "قناة ثقافية وتعليمية إسلامية",
-        "en": "Islamic cultural and educational channel"
-      },
-      "streams": [],
-      "externalURL": "https://www.youtube.com/watch?v=RBjXLa7xZ3M",
-      "openExternal": true,
-      "icon": "tv.fill",
-      "iconPlatformMap": {
-        "ios": "tv.fill",
-        "android": "ic_tv",
-        "web": "tv"
-      },
-      "isLive": true,
-      "isAudioOnly": false,
-      "enabled": true,
-      "sortOrder": 7
-    },
-    {
       "id": "radio_abdulbasit",
       "nameKey": "live_radio_abdulbasit",
       "descriptionKey": "live_radio_abdulbasit_desc",
