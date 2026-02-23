@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "2.1.0",
+  "contentVersion": "2.2.0",
   "lastUpdated": "2026-02-23T00:00:00Z",
   "items": [
     {
@@ -154,21 +154,9 @@
         "ar": "بث مباشر من القاهرة",
         "en": "Live broadcast from Cairo"
       },
-      "streams": [
-        {
-          "url": "https://stream.zeno.fm/tv0x28xvyc9uv",
-          "type": "audio",
-          "priority": 1,
-          "label": "ZenoFM"
-        },
-        {
-          "url": "https://qurango.net/radio/tarateel",
-          "type": "audio",
-          "priority": 2,
-          "label": "Qurango"
-        }
-      ],
+      "streams": [],
       "externalURL": "https://www.maspero.eg/stream/7",
+      "dailymotionVideoId": "x84wyku",
       "icon": "radio.fill",
       "iconPlatformMap": {
         "ios": "radio.fill",
@@ -177,7 +165,7 @@
       },
       "isLive": true,
       "isAudioOnly": true,
-      "enabled": false,
+      "enabled": true,
       "sortOrder": 5
     },
     {
@@ -226,15 +214,9 @@
         "ar": "قناة ثقافية وتعليمية إسلامية",
         "en": "Islamic cultural and educational channel"
       },
-      "streams": [
-        {
-          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
-          "type": "hls",
-          "priority": 1,
-          "label": "FastTV"
-        }
-      ],
-      "externalURL": "https://iqraa.com/",
+      "streams": [],
+      "externalURL": "https://www.youtube.com/watch?v=RBjXLa7xZ3M",
+      "openExternal": true,
       "icon": "tv.fill",
       "iconPlatformMap": {
         "ios": "tv.fill",
@@ -243,7 +225,7 @@
       },
       "isLive": true,
       "isAudioOnly": false,
-      "enabled": false,
+      "enabled": true,
       "sortOrder": 7
     },
     {
