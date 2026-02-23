@@ -10,6 +10,66 @@
     "titleEn": "Madinah Al-Nabawi"
   },
   {
+    "fileName": "ali_mulla",
+    "titleAr": "أذان علي أحمد ملا",
+    "titleEn": "Ali Ahmed Mulla"
+  },
+  {
+    "fileName": "mishary_alafasy",
+    "titleAr": "أذان مشاري العفاسي",
+    "titleEn": "Mishary Alafasy"
+  },
+  {
+    "fileName": "nasser_alqatami",
+    "titleAr": "أذان ناصر القطامي",
+    "titleEn": "Nasser Al-Qatami"
+  },
+  {
+    "fileName": "islam_sobhi",
+    "titleAr": "أذان إسلام صبحي",
+    "titleEn": "Islam Sobhi"
+  },
+  {
+    "fileName": "mahmoud_tablawi",
+    "titleAr": "أذان محمود الطبلاوي",
+    "titleEn": "Mahmoud Al-Tablawi"
+  },
+  {
+    "fileName": "sayed_naqshabandi",
+    "titleAr": "أذان سيد النقشبندي",
+    "titleEn": "Sayed Al-Naqshabandi"
+  },
+  {
+    "fileName": "salman_alutaybi",
+    "titleAr": "أذان سلمان العتيبي",
+    "titleEn": "Salman Al-Utaybi"
+  },
+  {
+    "fileName": "mansour_alsalimi",
+    "titleAr": "أذان منصور السالمي",
+    "titleEn": "Mansour Al-Salimi"
+  },
+  {
+    "fileName": "ahmad_alkurdi",
+    "titleAr": "أذان أحمد الكردي",
+    "titleEn": "Ahmad Al-Kurdi"
+  },
+  {
+    "fileName": "ahmad_alhaddad",
+    "titleAr": "أذان أحمد الحداد",
+    "titleEn": "Ahmad Al-Haddad"
+  },
+  {
+    "fileName": "ahmed_al_imadi",
+    "titleAr": "أذان أحمد العمادي",
+    "titleEn": "Ahmed Al-Imadi"
+  },
+  {
+    "fileName": "mokhtar_slimane",
+    "titleAr": "أذان مختار حاج سليمان",
+    "titleEn": "Mokhtar Hadj Slimane"
+  },
+  {
     "fileName": "fajr_makkah",
     "titleAr": "أذان الفجر - مكة",
     "titleEn": "Fajr - Makkah"
@@ -18,5 +78,20 @@
     "fileName": "fajr_madinah",
     "titleAr": "أذان الفجر - المدينة",
     "titleEn": "Fajr - Madinah"
+  },
+  {
+    "fileName": "fajr_ali_mulla",
+    "titleAr": "أذان الفجر - علي ملا",
+    "titleEn": "Fajr - Ali Mulla"
+  },
+  {
+    "fileName": "fajr_mishary",
+    "titleAr": "أذان الفجر - مشاري العفاسي",
+    "titleEn": "Fajr - Mishary Alafasy"
+  },
+  {
+    "fileName": "fajr_ahmad_darar",
+    "titleAr": "أذان الفجر - أحمد ضرار",
+    "titleEn": "Fajr - Ahmad Darar"
   }
 ]
