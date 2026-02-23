@@ -10,11 +10,6 @@
     "titleEn": "Madinah Al-Nabawi"
   },
   {
-    "fileName": "ali_mulla",
-    "titleAr": "أذان علي أحمد ملا",
-    "titleEn": "Ali Ahmed Mulla"
-  },
-  {
     "fileName": "mishary_alafasy",
     "titleAr": "أذان مشاري العفاسي",
     "titleEn": "Mishary Alafasy"
@@ -65,9 +60,29 @@
     "titleEn": "Ahmed Al-Imadi"
   },
   {
-    "fileName": "mokhtar_slimane",
-    "titleAr": "أذان مختار حاج سليمان",
-    "titleEn": "Mokhtar Hadj Slimane"
+    "fileName": "abdulbasit",
+    "titleAr": "أذان عبدالباسط عبدالصمد",
+    "titleEn": "Abdulbasit Abdussamad"
+  },
+  {
+    "fileName": "muhammad_refaat",
+    "titleAr": "أذان محمد رفعت",
+    "titleEn": "Mohamed Refaat"
+  },
+  {
+    "fileName": "mustafa_ismail",
+    "titleAr": "أذان مصطفى إسماعيل",
+    "titleEn": "Mustafa Ismail"
+  },
+  {
+    "fileName": "minshawi",
+    "titleAr": "أذان محمد صديق المنشاوي",
+    "titleEn": "Muhammad Siddiq Al-Minshawi"
+  },
+  {
+    "fileName": "ahmad_nainai",
+    "titleAr": "أذان أحمد نعينع",
+    "titleEn": "Ahmad Nai'nai"
   },
   {
     "fileName": "fajr_makkah",
@@ -78,11 +93,6 @@
     "fileName": "fajr_madinah",
     "titleAr": "أذان الفجر - المدينة",
     "titleEn": "Fajr - Madinah"
-  },
-  {
-    "fileName": "fajr_ali_mulla",
-    "titleAr": "أذان الفجر - علي ملا",
-    "titleEn": "Fajr - Ali Mulla"
   },
   {
     "fileName": "fajr_mishary",
