@@ -40491,7 +40491,7 @@
       "titleEn": "Surah Al-Ikhlas",
       "transliterationEn": "Qul huwa Allahu ahad. Allahus-samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.",
       "repeatCount": 3,
-      "repeatNote": "3 times after Maghrib & Fajr, 1 time after other prayers",
+      "repeatNote": "٣ مرات بعد المغرب والفجر، ومرة بعد بقية الصلوات",
       "timingRules": "after_maghrib_fajr",
       "reference": {
         "book": "Abu Dawud 2/86, An-Nasa'i 3/68",
@@ -40605,7 +40605,8 @@
         "ta": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "jv": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "ml": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib"
-      }
+      },
+      "repeatNoteEn": "3 times after Maghrib & Fajr, 1 time after other prayers"
     },
     {
       "id": "after_prayer_7b",
@@ -40617,7 +40618,7 @@
       "titleEn": "Surah Al-Falaq",
       "transliterationEn": "Qul a'udhu bi rabbil-falaq. Min sharri ma khalaq. Wa min sharri ghasiqin idha waqab. Wa min sharrin-naffathati fil-'uqad. Wa min sharri hasidin idha hasad.",
       "repeatCount": 3,
-      "repeatNote": "3 times after Maghrib & Fajr, 1 time after other prayers",
+      "repeatNote": "٣ مرات بعد المغرب والفجر، ومرة بعد بقية الصلوات",
       "timingRules": "after_maghrib_fajr",
       "reference": {
         "book": "Abu Dawud 2/86, An-Nasa'i 3/68",
@@ -40731,7 +40732,8 @@
         "ta": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "jv": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "ml": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib"
-      }
+      },
+      "repeatNoteEn": "3 times after Maghrib & Fajr, 1 time after other prayers"
     },
     {
       "id": "after_prayer_7c",
@@ -40743,7 +40745,7 @@
       "titleEn": "Surah An-Nas",
       "transliterationEn": "Qul a'udhu bi rabbin-nas. Malikin-nas. Ilahin-nas. Min sharril-wasswasil-khannas. Alladhi yuwaswisu fi sudurin-nas. Minal-jinnati wan-nas.",
       "repeatCount": 3,
-      "repeatNote": "3 times after Maghrib & Fajr, 1 time after other prayers",
+      "repeatNote": "٣ مرات بعد المغرب والفجر، ومرة بعد بقية الصلوات",
       "timingRules": "after_maghrib_fajr",
       "reference": {
         "book": "Abu Dawud 2/86, An-Nasa'i 3/68",
@@ -40857,7 +40859,8 @@
         "ta": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "jv": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib",
         "ml": "Reciting the Mu'awwidhat after every obligatory prayer, three times after Fajr and Maghrib"
-      }
+      },
+      "repeatNoteEn": "3 times after Maghrib & Fajr, 1 time after other prayers"
     }
   ],
   "totalAdhkar": 329,
